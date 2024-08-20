@@ -1,0 +1,2 @@
+"__Annotations","confidence score","data version","database","enrichmentTables","has images","name","network type","selected","shared name","species","uri"
+"","0.4","12","string","","false","AD: Merged STRING KEGG Wiki network cutoff 0.4","full STRING network","true","Merged STRING KEGG Wiki network cutoff 0.4","Homo sapiens;org.cytoscape.work.util.ListSingleSelection@23a636c5;org.cytoscape.work.util.ListSingleSelection@38046cd6","https://api12.jensenlab.org/network"

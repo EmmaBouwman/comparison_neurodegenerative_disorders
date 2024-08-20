@@ -1,0 +1,112 @@
+File created with BiNGO v3.0.5  (c) on 18 aug. 2024 at 12:27:39
+
+ontology: unknown
+curator:  unknown
+
+Selected ontology file : C:\Users\emmab\Downloads\go-basic.obo
+Selected annotation file : bundle://807aa849-5a07-4917-b8a2-275e7e29f20a_126.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+O15020	Q5TEC6	Q96TC4	Q9H3M9	P05129	Q9UBB4	Q96DJ0	Q99700	Q9UHD9	P84243	Q71DI3	O15379	Q16695	P55072	P25685	P00441	P37840	P11142	P67775	Q8NI43	Q96LT7	P42858	Q9UC33	Q99793	Q00005	Q6NXT2	Q14003	
+
+No annotations were retrieved for the following entities:
+Q5TEC6	Q96TC4	Q9UHD9	Q8NI43	Q9UBB4	Q96LT7	Q9UC33	Q99793	Q96DJ0	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+8219	1.3693E-7	1.2077E-4	9	780	18	14177	cell death	Q99700|O15020|P67775|P05129|P42858|Q00005|P37840|Q14003|P00441
+16043	1.2265E-6	5.4090E-4	12	2173	18	14177	cellular component organization	Q99700|O15020|P11142|P84243|Q71DI3|P42858|O15379|Q16695|Q6NXT2|P55072|P37840|P00441
+71840	2.1133E-6	5.9726E-4	12	2283	18	14177	cellular component organization or biogenesis	Q99700|O15020|P11142|P84243|Q71DI3|P42858|O15379|Q16695|Q6NXT2|P55072|P37840|P00441
+6334	2.7086E-6	5.9726E-4	4	80	18	14177	nucleosome assembly	P84243|Q71DI3|Q16695|Q6NXT2
+34728	3.6196E-6	6.1032E-4	4	86	18	14177	nucleosome organization	P84243|Q71DI3|Q16695|Q6NXT2
+65004	4.1519E-6	6.1032E-4	4	89	18	14177	protein-DNA complex assembly	P84243|Q71DI3|Q16695|Q6NXT2
+40014	3.0528E-5	3.7983E-3	3	49	18	14177	regulation of multicellular organism growth	Q99700|O15379|P00441
+43524	3.4452E-5	3.7983E-3	3	51	18	14177	negative regulation of neuron apoptotic process	P42858|P37840|P00441
+6338	4.3307E-5	4.0020E-3	4	161	18	14177	chromatin remodeling	P84243|Q71DI3|Q16695|Q6NXT2
+22607	4.5374E-5	4.0020E-3	7	842	18	14177	cellular component assembly	Q99700|P84243|Q71DI3|O15379|Q16695|Q6NXT2|P55072
+61024	7.1359E-5	5.4983E-3	4	183	18	14177	membrane organization	P11142|P42858|P37840|P00441
+6986	7.4807E-5	5.4983E-3	3	66	18	14177	response to unfolded protein	P11142|P55072|P25685
+6325	8.6552E-5	5.5481E-3	5	380	18	14177	chromatin organization	P84243|Q71DI3|O15379|Q16695|Q6NXT2
+35966	8.9203E-5	5.5481E-3	3	70	18	14177	response to topologically incorrect protein	P11142|P55072|P25685
+71824	9.4355E-5	5.5481E-3	5	387	18	14177	protein-DNA complex organization	P84243|Q71DI3|O15379|Q16695|Q6NXT2
+44085	1.0760E-4	5.9153E-3	7	964	18	14177	cellular component biogenesis	Q99700|P84243|Q71DI3|O15379|Q16695|Q6NXT2|P55072
+43523	1.1401E-4	5.9153E-3	3	76	18	14177	regulation of neuron apoptotic process	P42858|P37840|P00441
+1902930	2.3017E-4	1.0685E-2	2	18	18	14177	regulation of alcohol biosynthetic process	P37840|P00441
+51881	2.3017E-4	1.0685E-2	2	18	18	14177	regulation of mitochondrial membrane potential	P42858|P00441
+42391	2.5730E-4	1.1015E-2	3	100	18	14177	regulation of membrane potential	P42858|P37840|P00441
+51246	2.6226E-4	1.1015E-2	6	768	18	14177	regulation of protein metabolic process	Q99700|P67775|P05129|P55072|P37840|P00441
+7626	2.8885E-4	1.1580E-2	3	104	18	14177	locomotory behavior	P42858|P37840|P00441
+48638	3.4988E-4	1.3417E-2	3	111	18	14177	regulation of developmental growth	Q99700|O15379|P00441
+99003	4.1334E-4	1.4582E-2	2	24	18	14177	vesicle-mediated transport in synapse	O15020|P37840
+99504	4.1334E-4	1.4582E-2	2	24	18	14177	synaptic vesicle cycle	O15020|P37840
+7610	4.8780E-4	1.6548E-2	4	302	18	14177	behavior	P05129|P42858|P37840|P00441
+16192	5.5380E-4	1.7234E-2	5	566	18	14177	vesicle-mediated transport	O15020|P11142|P42858|P55072|P37840
+48193	5.5587E-4	1.7234E-2	3	130	18	14177	Golgi vesicle transport	P11142|P42858|P55072
+43933	5.8442E-4	1.7234E-2	6	891	18	14177	protein-containing complex organization	P84243|Q71DI3|O15379|Q16695|Q6NXT2|P55072
+65003	5.9997E-4	1.7234E-2	5	576	18	14177	protein-containing complex assembly	P84243|Q71DI3|Q16695|Q6NXT2|P55072
+7006	6.0574E-4	1.7234E-2	2	29	18	14177	mitochondrial membrane organization	P42858|P37840
+42981	6.4396E-4	1.7749E-2	5	585	18	14177	regulation of apoptotic process	P42858|O15379|P55072|P37840|P00441
+43067	6.9566E-4	1.8593E-2	5	595	18	14177	regulation of programmed cell death	P42858|O15379|P55072|P37840|P00441
+10038	7.9506E-4	1.9646E-2	3	147	18	14177	response to metal ion	P42858|P37840|P00441
+40008	7.9612E-4	1.9646E-2	4	344	18	14177	regulation of growth	Q99700|P67775|O15379|P00441
+34599	9.3501E-4	1.9646E-2	2	36	18	14177	cellular response to oxidative stress	P37840|P00441
+43603	1.0164E-3	1.9646E-2	3	160	18	14177	amide metabolic process	P67775|P42858|P00441
+43066	1.0344E-3	1.9646E-2	4	369	18	14177	negative regulation of apoptotic process	P42858|O15379|P37840|P00441
+62197	1.0418E-3	1.9646E-2	2	38	18	14177	cellular response to chemical stress	P37840|P00441
+43069	1.0876E-3	1.9646E-2	4	374	18	14177	negative regulation of programmed cell death	P42858|O15379|P37840|P00441
+6888	1.0973E-3	1.9646E-2	2	39	18	14177	endoplasmic reticulum to Golgi vesicle-mediated transport	P42858|P55072
+43217	1.2697E-3	1.9646E-2	1	1	18	14177	myelin maintenance	P00441
+51581	1.2697E-3	1.9646E-2	1	1	18	14177	negative regulation of neurotransmitter uptake	P37840
+51585	1.2697E-3	1.9646E-2	1	1	18	14177	negative regulation of dopamine uptake involved in synaptic transmission	P37840
+51611	1.2697E-3	1.9646E-2	1	1	18	14177	regulation of serotonin uptake	P37840
+51612	1.2697E-3	1.9646E-2	1	1	18	14177	negative regulation of serotonin uptake	P37840
+51621	1.2697E-3	1.9646E-2	1	1	18	14177	regulation of norepinephrine uptake	P37840
+51622	1.2697E-3	1.9646E-2	1	1	18	14177	negative regulation of norepinephrine uptake	P37840
+51945	1.2697E-3	1.9646E-2	1	1	18	14177	negative regulation of catecholamine uptake involved in synaptic transmission	P37840
+19244	1.2697E-3	1.9646E-2	1	1	18	14177	lactate biosynthetic process from pyruvate	P42858
+19249	1.2697E-3	1.9646E-2	1	1	18	14177	lactate biosynthetic process	P42858
+70495	1.2697E-3	1.9646E-2	1	1	18	14177	negative regulation of thrombin-activated receptor signaling pathway	P37840
+70494	1.2697E-3	1.9646E-2	1	1	18	14177	regulation of thrombin-activated receptor signaling pathway	P37840
+21990	1.2697E-3	1.9646E-2	1	1	18	14177	neural plate formation	P42858
+32287	1.2697E-3	1.9646E-2	1	1	18	14177	peripheral nervous system myelin maintenance	P00441
+32423	1.2697E-3	1.9646E-2	1	1	18	14177	regulation of mismatch repair	P05129
+32425	1.2697E-3	1.9646E-2	1	1	18	14177	positive regulation of mismatch repair	P05129
+48519	1.8975E-3	2.8855E-2	8	2015	18	14177	negative regulation of biological process	Q99700|O15020|P67775|P05129|P42858|O15379|P37840|P00441
+48167	2.3316E-3	3.3408E-2	2	57	18	14177	regulation of synaptic plasticity	P42858|P37840
+6302	2.4959E-3	3.3408E-2	2	59	18	14177	double-strand break repair	P55072|P00441
+52	2.5378E-3	3.3408E-2	1	2	18	14177	citrulline metabolic process	P42858
+51589	2.5378E-3	3.3408E-2	1	2	18	14177	negative regulation of neurotransmitter transport	P37840
+10642	2.5378E-3	3.3408E-2	1	2	18	14177	negative regulation of platelet-derived growth factor receptor signaling pathway	P37840
+33962	2.5378E-3	3.3408E-2	1	2	18	14177	P-body assembly	Q99700
+34063	2.5378E-3	3.3408E-2	1	2	18	14177	stress granule assembly	Q99700
+60732	2.5378E-3	3.3408E-2	1	2	18	14177	positive regulation of inositol phosphate biosynthetic process	P37840
+10040	2.5378E-3	3.3408E-2	1	2	18	14177	response to iron(II) ion	P37840
+140694	2.6654E-3	3.4572E-2	2	61	18	14177	non-membrane-bounded organelle assembly	Q99700|O15379
+51248	3.0893E-3	3.9489E-2	3	236	18	14177	negative regulation of protein metabolic process	P67775|P05129|P37840
+90206	3.8044E-3	4.2952E-2	1	3	18	14177	negative regulation of cholesterol metabolic process	P00441
+45541	3.8044E-3	4.2952E-2	1	3	18	14177	negative regulation of cholesterol biosynthetic process	P00441
+10919	3.8044E-3	4.2952E-2	1	3	18	14177	regulation of inositol phosphate biosynthetic process	P37840
+60087	3.8044E-3	4.2952E-2	1	3	18	14177	relaxation of vascular associated smooth muscle	P00441
+19805	3.8044E-3	4.2952E-2	1	3	18	14177	quinolinate biosynthetic process	P42858
+44557	3.8044E-3	4.2952E-2	1	3	18	14177	relaxation of smooth muscle	P00441
+106119	3.8044E-3	4.2952E-2	1	3	18	14177	negative regulation of sterol biosynthetic process	P00441
+1839	3.8044E-3	4.2952E-2	1	3	18	14177	neural plate morphogenesis	P42858
+6089	3.8044E-3	4.2952E-2	1	3	18	14177	lactate metabolic process	P42858
+42176	3.8959E-3	4.2952E-2	2	74	18	14177	regulation of protein catabolic process	P05129|P55072
+7498	3.8959E-3	4.2952E-2	2	74	18	14177	mesoderm development	P67775|P42858
+6996	4.0352E-3	4.3939E-2	5	884	18	14177	organelle organization	Q99700|P42858|O15379|P37840|P00441
+23061	4.4273E-3	4.7203E-2	2	79	18	14177	signal release	O15020|P42858
+51649	4.4420E-3	4.7203E-2	4	550	18	14177	establishment of localization in cell	O15020|P42858|P55072|P37840
+9892	4.9030E-3	4.8601E-2	5	925	18	14177	negative regulation of metabolic process	P67775|P05129|O15379|P37840|P00441
+9410	4.9922E-3	4.8601E-2	3	280	18	14177	response to xenobiotic stimulus	O15379|P37840|P00441
+2093	5.0695E-3	4.8601E-2	1	4	18	14177	auditory receptor cell morphogenesis	P00441
+10640	5.0695E-3	4.8601E-2	1	4	18	14177	regulation of platelet-derived growth factor receptor signaling pathway	P37840
+60088	5.0695E-3	4.8601E-2	1	4	18	14177	auditory receptor cell stereocilium organization	P00441
+70841	5.0695E-3	4.8601E-2	1	4	18	14177	inclusion body assembly	P55072
+70842	5.0695E-3	4.8601E-2	1	4	18	14177	aggresome assembly	P55072
+1840	5.0695E-3	4.8601E-2	1	4	18	14177	neural plate development	P42858
+1956	5.0695E-3	4.8601E-2	1	4	18	14177	positive regulation of neurotransmitter secretion	P37840

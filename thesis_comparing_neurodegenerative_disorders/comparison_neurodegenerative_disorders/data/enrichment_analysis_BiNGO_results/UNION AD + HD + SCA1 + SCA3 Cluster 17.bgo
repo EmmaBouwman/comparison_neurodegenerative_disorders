@@ -1,0 +1,164 @@
+File created with BiNGO v3.0.5  (c) on 18 aug. 2024 at 17:35:59
+
+ontology: unknown
+curator:  unknown
+
+Selected ontology file : C:\Users\emmab\Downloads\go-basic.obo
+Selected annotation file : bundle://807aa849-5a07-4917-b8a2-275e7e29f20a_126.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+Q6YP21	Q9UBB4	Q09470	P54253	P35610	P13521	O95992	P17787	Q9HAN9	Q9Y6A2	Q93045	Q9BZQ4	Q92973	P49810	Q16773	P26378	Q6IQ55	Q9Y5Z0	Q8TDX5	P46060	P51693	P49790	Q13443	Q05940	P21917	Q16719	Q9NS39	Q15392	Q8N5Z0	P05060	Q68DH3	P43681	Q15274	O15229	Q92823	Q14003	P46952	
+
+No annotations were retrieved for the following entities:
+Q9UBB4	P05060	Q68DH3	Q16719	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+19363	1.4700E-10	1.2878E-7	5	15	33	14177	pyridine nucleotide biosynthetic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+72525	5.6548E-10	2.4768E-7	5	19	33	14177	pyridine-containing compound biosynthetic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+70189	1.6914E-9	4.9389E-7	4	8	33	14177	kynurenine metabolic process	Q6YP21|Q8N5Z0|Q16773|O15229
+42537	7.9346E-9	1.7377E-6	4	11	33	14177	benzene-containing compound metabolic process	Q6YP21|Q8N5Z0|Q16773|O15229
+72524	3.2719E-8	5.7324E-6	6	83	33	14177	pyridine-containing compound metabolic process	Q8TDX5|Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+46874	1.1455E-7	1.6724E-5	3	5	33	14177	quinolinate metabolic process	Q8TDX5|Q15274|P46952
+19674	1.7274E-7	1.9137E-5	4	22	33	14177	NAD metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229
+43648	1.7477E-7	1.9137E-5	5	56	33	14177	dicarboxylic acid metabolic process	Q6YP21|Q8TDX5|Q8N5Z0|Q15274|P46952
+44281	2.8963E-7	2.8190E-5	13	1058	33	14177	small molecule metabolic process	Q6YP21|Q8TDX5|P35610|O95992|Q9HAN9|Q9Y6A2|Q15392|Q8N5Z0|Q9BZQ4|Q16773|Q15274|O15229|P46952
+9435	6.3842E-7	5.5925E-5	3	8	33	14177	NAD biosynthetic process	Q9HAN9|Q9BZQ4|Q15274
+19362	9.3148E-7	6.4427E-5	5	78	33	14177	pyridine nucleotide metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+42180	9.4907E-7	6.4427E-5	4	33	33	14177	cellular ketone metabolic process	Q6YP21|Q8N5Z0|Q16773|O15229
+19359	9.5610E-7	6.4427E-5	3	9	33	14177	nicotinamide nucleotide biosynthetic process	Q9HAN9|Q9BZQ4|Q15274
+170041	1.0739E-6	6.7193E-5	4	34	33	14177	non-proteinogenic amino acid metabolic process	Q6YP21|Q8N5Z0|Q16773|O15229
+6509	4.1103E-6	2.4004E-4	3	14	33	14177	membrane protein ectodomain proteolysis	Q13443|P49810|Q9Y5Z0
+33619	1.0856E-5	5.9434E-4	3	19	33	14177	membrane protein proteolysis	Q13443|P49810|Q9Y5Z0
+19752	1.4634E-5	6.8478E-4	8	501	33	14177	carboxylic acid metabolic process	Q6YP21|Q8TDX5|Q8N5Z0|Q16773|Q15274|O95992|O15229|P46952
+60078	1.4853E-5	6.8478E-4	3	21	33	14177	regulation of postsynaptic membrane potential	P54253|P43681|P21917
+99565	1.4853E-5	6.8478E-4	3	21	33	14177	chemical synaptic transmission, postsynaptic	P54253|P43681|P21917
+43436	1.5727E-5	6.8883E-4	8	506	33	14177	oxoacid metabolic process	Q6YP21|Q8TDX5|Q8N5Z0|Q16773|Q15274|O95992|O15229|P46952
+6082	1.6887E-5	7.0444E-4	8	511	33	14177	organic acid metabolic process	Q6YP21|Q8TDX5|Q8N5Z0|Q16773|Q15274|O95992|O15229|P46952
+46496	2.6317E-5	1.0479E-3	4	75	33	14177	nicotinamide nucleotide metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229
+30534	2.7733E-5	1.0563E-3	4	76	33	14177	adult behavior	P17787|P54253|P43681|P21917
+42984	5.2315E-5	1.9095E-3	2	5	33	14177	regulation of amyloid precursor protein biosynthetic process	P35610|Q9Y5Z0
+8203	5.6373E-5	1.9673E-3	4	91	33	14177	cholesterol metabolic process	Q9Y6A2|Q15392|P35610|O95992
+9165	6.0056E-5	1.9673E-3	5	183	33	14177	nucleotide biosynthetic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+7610	6.0637E-5	1.9673E-3	6	302	33	14177	behavior	P17787|P54253|P43681|P49810|Q05940|P21917
+1901293	6.9996E-5	2.1860E-3	5	189	33	14177	nucleoside phosphate biosynthetic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+1902652	7.2367E-5	2.1860E-3	4	97	33	14177	secondary alcohol metabolic process	Q9Y6A2|Q15392|P35610|O95992
+60080	7.8358E-5	2.2310E-3	2	6	33	14177	inhibitory postsynaptic potential	P43681|P21917
+42391	8.1498E-5	2.2310E-3	4	100	33	14177	regulation of membrane potential	P17787|P54253|P43681|P21917
+16125	8.1498E-5	2.2310E-3	4	100	33	14177	sterol metabolic process	Q9Y6A2|Q15392|P35610|O95992
+7626	9.4943E-5	2.5203E-3	4	104	33	14177	locomotory behavior	P17787|P54253|Q05940|P21917
+35095	1.0954E-4	2.8223E-3	2	7	33	14177	behavioral response to nicotine	P17787|P43681
+9058	1.4826E-4	3.7106E-3	15	2436	33	14177	biosynthetic process	Q6YP21|P54253|O95992|Q9HAN9|Q9NS39|Q15392|Q8N5Z0|Q9BZQ4|P49810|Q16773|Q15274|O15229|P26378|P46952|Q9Y5Z0
+51952	1.6293E-4	3.9120E-3	3	46	33	14177	regulation of amine transport	P17787|P43681|P21917
+50890	1.6523E-4	3.9120E-3	4	120	33	14177	cognition	P17787|P54253|P43681|P49810
+42053	1.8724E-4	4.2057E-3	2	9	33	14177	regulation of dopamine metabolic process	P17787|P21917
+42987	1.8724E-4	4.2057E-3	2	9	33	14177	amyloid precursor protein catabolic process	Q15392|P49810
+42069	2.3371E-4	5.0022E-3	2	10	33	14177	regulation of catecholamine metabolic process	P17787|P21917
+98916	2.4554E-4	5.0022E-3	5	247	33	14177	anterograde trans-synaptic signaling	P17787|Q09470|P54253|P43681|P21917
+7268	2.4554E-4	5.0022E-3	5	247	33	14177	chemical synaptic transmission	P17787|Q09470|P54253|P43681|P21917
+99537	2.4554E-4	5.0022E-3	5	247	33	14177	trans-synaptic signaling	P17787|Q09470|P54253|P43681|P21917
+42982	2.8523E-4	5.6402E-3	2	11	33	14177	amyloid precursor protein metabolic process	Q15392|P49810
+99536	2.8974E-4	5.6402E-3	5	256	33	14177	synaptic signaling	P17787|Q09470|P54253|P43681|P21917
+1901615	3.1122E-4	5.8712E-3	5	260	33	14177	organic hydroxy compound metabolic process	Q9Y6A2|Q15392|P35610|P21917|O95992
+1901605	3.1501E-4	5.8712E-3	4	142	33	14177	alpha-amino acid metabolic process	Q6YP21|Q8N5Z0|Q16773|O15229
+10559	3.4177E-4	6.2373E-3	2	12	33	14177	regulation of glycoprotein biosynthetic process	P35610|Q9Y5Z0
+1903018	4.0332E-4	6.9277E-3	2	13	33	14177	regulation of glycoprotein metabolic process	P35610|Q9Y5Z0
+33238	4.0332E-4	6.9277E-3	2	13	33	14177	regulation of amine metabolic process	P17787|P21917
+14059	4.0332E-4	6.9277E-3	2	13	33	14177	regulation of dopamine secretion	P17787|P43681
+16485	5.1948E-4	8.7512E-3	3	68	33	14177	protein processing	Q15392|P49810|Q9Y5Z0
+9987	5.3407E-4	8.8273E-3	31	9751	33	14177	cellular process	Q6YP21|Q09470|P54253|P35610|P13521|O95992|P17787|Q9HAN9|Q93045|Q9BZQ4|P49810|Q16773|P26378|Q6IQ55|Q9Y5Z0|Q8TDX5|P46060|P51693|P49790|Q13443|Q05940|P21917|Q9NS39|Q15392|Q8N5Z0|P43681|Q15274|O15229|Q92823|Q14003|P46952
+6103	6.1779E-4	1.0022E-2	2	16	33	14177	2-oxoglutarate metabolic process	Q6YP21|Q8N5Z0
+6066	6.5047E-4	1.0360E-2	4	172	33	14177	alcohol metabolic process	Q9Y6A2|Q15392|P35610|O95992
+51899	6.9915E-4	1.0745E-2	2	17	33	14177	membrane depolarization	P17787|P43681
+7271	6.9915E-4	1.0745E-2	2	17	33	14177	synaptic transmission, cholinergic	P17787|P43681
+35176	7.8540E-4	1.1661E-2	2	18	33	14177	social behavior	P17787|P21917
+51703	7.8540E-4	1.1661E-2	2	18	33	14177	biological process involved in intraspecies interaction between organisms	P17787|P21917
+90407	8.3617E-4	1.2208E-2	5	323	33	14177	organophosphate biosynthetic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+51954	8.7652E-4	1.2565E-2	2	19	33	14177	positive regulation of amine transport	P17787|P21917
+1903530	8.8933E-4	1.2565E-2	4	187	33	14177	regulation of secretion by cell	P17787|Q13443|P43681|P21917
+9117	9.0824E-4	1.2629E-2	5	329	33	14177	nucleotide metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+35094	9.7249E-4	1.3072E-2	2	20	33	14177	response to nicotine	P17787|P43681
+1975	9.7249E-4	1.3072E-2	2	20	33	14177	response to amphetamine	Q05940|P21917
+6753	9.8487E-4	1.3072E-2	5	335	33	14177	nucleoside phosphate metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+51046	1.0999E-3	1.4380E-2	4	198	33	14177	regulation of secretion	P17787|Q13443|P43681|P21917
+42220	1.1789E-3	1.5187E-2	2	22	33	14177	response to cocaine	P17787|P21917
+8202	1.3197E-3	1.6748E-2	4	208	33	14177	steroid metabolic process	Q9Y6A2|Q15392|P35610|O95992
+8152	1.3383E-3	1.6748E-2	22	5573	33	14177	metabolic process	Q6YP21|Q8TDX5|Q13443|P54253|P35610|P21917|O95992|Q9HAN9|Q9Y6A2|Q9NS39|Q15392|Q8N5Z0|Q9BZQ4|P43681|P49810|Q16773|Q15274|O15229|P26378|P46952|Q6IQ55|Q9Y5Z0
+8542	1.4045E-3	1.7328E-2	2	24	33	14177	visual learning	P17787|P54253
+55086	1.5321E-3	1.8640E-2	5	370	33	14177	nucleobase-containing small molecule metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229|P46952
+14075	1.6490E-3	1.9788E-2	2	26	33	14177	response to amine	Q05940|P21917
+44237	1.7186E-3	2.0345E-2	17	3727	33	14177	cellular metabolic process	Q6YP21|Q8TDX5|P54253|O95992|Q9HAN9|Q9NS39|Q15392|Q8N5Z0|Q9BZQ4|P49810|Q16773|Q15274|O15229|P26378|P46952|Q6IQ55|Q9Y5Z0
+50433	1.7783E-3	2.0498E-2	2	27	33	14177	regulation of catecholamine secretion	P17787|P43681
+7632	1.7783E-3	2.0498E-2	2	27	33	14177	visual behavior	P17787|P54253
+45321	2.0011E-3	2.2766E-2	4	233	33	14177	leukocyte activation	P17787|Q13443|P43681|P49810
+6520	2.0326E-3	2.2827E-2	4	234	33	14177	amino acid metabolic process	Q6YP21|Q8N5Z0|Q16773|O15229
+7611	2.2602E-3	2.2911E-2	3	113	33	14177	learning or memory	P17787|P54253|P49810
+1901564	2.2854E-3	2.2911E-2	15	3117	33	14177	organonitrogen compound metabolic process	Q6YP21|Q8TDX5|Q13443|P21917|Q9HAN9|Q15392|Q8N5Z0|Q9BZQ4|P49810|Q16773|Q15274|O15229|P46952|Q6IQ55|Q9Y5Z0
+10878	2.3277E-3	2.2911E-2	1	1	33	14177	cholesterol storage	P35610
+60142	2.3277E-3	2.2911E-2	1	1	33	14177	regulation of syncytium formation by plasma membrane fusion	Q13443
+60143	2.3277E-3	2.2911E-2	1	1	33	14177	positive regulation of syncytium formation by plasma membrane fusion	Q13443
+72677	2.3277E-3	2.2911E-2	1	1	33	14177	eosinophil migration	P13521
+48245	2.3277E-3	2.2911E-2	1	1	33	14177	eosinophil chemotaxis	P13521
+21771	2.3277E-3	2.2911E-2	1	1	33	14177	lateral geniculate nucleus development	P17787
+34213	2.3277E-3	2.2911E-2	1	1	33	14177	quinolinate catabolic process	Q15274
+34239	2.3277E-3	2.2911E-2	1	1	33	14177	regulation of macrophage fusion	Q13443
+34241	2.3277E-3	2.2911E-2	1	1	33	14177	positive regulation of macrophage fusion	Q13443
+44238	2.5633E-3	2.4950E-2	20	4996	33	14177	primary metabolic process	Q6YP21|Q13443|P54253|P35610|O95992|Q9HAN9|Q9Y6A2|Q9NS39|Q15392|Q8N5Z0|Q9BZQ4|P43681|P49810|Q16773|Q15274|O15229|P26378|P46952|Q6IQ55|Q9Y5Z0
+8306	2.6519E-3	2.5528E-2	2	33	33	14177	associative learning	P17787|P54253
+30001	2.7786E-3	2.6220E-2	5	424	33	14177	metal ion transport	P17787|Q09470|P43681|P49810|Q14003
+19233	2.8135E-3	2.6220E-2	2	34	33	14177	sensory perception of pain	P17787|P43681
+16126	2.8135E-3	2.6220E-2	2	34	33	14177	sterol biosynthetic process	Q15392|O95992
+43588	3.0784E-3	2.8386E-2	3	126	33	14177	skin development	Q13443|Q15392|P49810
+34654	3.2640E-3	2.9577E-2	8	1110	33	14177	nucleobase-containing compound biosynthetic process	Q9HAN9|Q9NS39|P54253|Q9BZQ4|Q15274|O15229|P26378|P46952
+6163	3.2751E-3	2.9577E-2	4	267	33	14177	purine nucleotide metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229
+6816	3.5852E-3	3.2048E-2	3	133	33	14177	calcium ion transport	P17787|P43681|P49810
+1775	3.6402E-3	3.2210E-2	4	275	33	14177	cell activation	P17787|Q13443|P43681|P49810
+7193	3.8779E-3	3.3971E-2	2	40	33	14177	adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	P51693|P21917
+72521	3.9316E-3	3.4100E-2	4	281	33	14177	purine-containing compound metabolic process	Q9HAN9|Q9BZQ4|Q15274|O15229
+43279	4.0709E-3	3.4962E-2	2	41	33	14177	response to alkaloid	P17787|P21917
+51582	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of neurotransmitter uptake	P21917
+51586	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of dopamine uptake involved in synaptic transmission	P21917
+31117	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of microtubule depolymerization	Q93045
+51944	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of catecholamine uptake involved in synaptic transmission	P21917
+21562	4.6502E-3	3.5931E-2	1	2	33	14177	vestibulocochlear nerve development	P17787
+32226	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of synaptic transmission, dopaminergic	P17787
+32417	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of sodium:proton antiporter activity	P21917
+1902307	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of sodium ion transmembrane transport	P21917
+2000651	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of sodium ion transmembrane transporter activity	P21917
+42985	4.6502E-3	3.5931E-2	1	2	33	14177	negative regulation of amyloid precursor protein biosynthetic process	Q9Y5Z0
+42986	4.6502E-3	3.5931E-2	1	2	33	14177	positive regulation of amyloid precursor protein biosynthetic process	P35610
+7613	4.6760E-3	3.5931E-2	2	44	33	14177	memory	P17787|P49810
+6812	4.7228E-3	3.5975E-2	5	480	33	14177	monoatomic cation transport	P17787|Q09470|P43681|P49810|Q14003
+1666	4.9275E-3	3.7211E-2	3	149	33	14177	response to hypoxia	P17787|P43681|P49810
+36293	5.1139E-3	3.8288E-2	3	151	33	14177	response to decreased oxygen levels	P17787|P43681|P49810
+51179	5.2567E-3	3.9024E-2	13	2698	33	14177	localization	P51693|P49790|Q09470|P54253|P35610|Q05940|P21917|P13521|P17787|Q15392|P43681|P49810|Q14003
+6164	5.4013E-3	3.9761E-2	3	154	33	14177	purine nucleotide biosynthetic process	Q9HAN9|Q9BZQ4|Q15274
+72522	5.6983E-3	4.1598E-2	3	157	33	14177	purine-containing compound biosynthetic process	Q9HAN9|Q9BZQ4|Q15274
+70482	5.7994E-3	4.1986E-2	3	158	33	14177	response to oxygen levels	P17787|P43681|P49810
+8344	6.0026E-3	4.3101E-2	2	50	33	14177	adult locomotory behavior	P54253|P21917
+30900	6.1094E-3	4.3511E-2	3	161	33	14177	forebrain development	P17787|P51693|P49810
+65008	6.2348E-3	4.3720E-2	7	974	33	14177	regulation of biological quality	P17787|P54253|P43681|P49810|P21917|Q92823|Q9Y5Z0
+6576	6.2386E-3	4.3720E-2	2	51	33	14177	biogenic amine metabolic process	P21917|O15229
+44282	6.6477E-3	4.3910E-2	3	166	33	14177	small molecule catabolic process	Q9Y6A2|Q15274|O15229
+9628	6.8205E-3	4.3910E-2	5	524	33	14177	response to abiotic stimulus	P17787|P54253|P43681|P49810|O15229
+45162	6.9674E-3	4.3910E-2	1	3	33	14177	clustering of voltage-gated sodium channels	Q92823
+45188	6.9674E-3	4.3910E-2	1	3	33	14177	regulation of circadian sleep/wake cycle, non-REM sleep	P17787
+31115	6.9674E-3	4.3910E-2	1	3	33	14177	negative regulation of microtubule polymerization	Q93045
+70050	6.9674E-3	4.3910E-2	1	3	33	14177	neuron cellular homeostasis	P46952
+10742	6.9674E-3	4.3910E-2	1	3	33	14177	macrophage derived foam cell differentiation	P35610
+60084	6.9674E-3	4.3910E-2	1	3	33	14177	synaptic transmission involved in micturition	P17787
+45759	6.9674E-3	4.3910E-2	1	3	33	14177	negative regulation of action potential	P17787
+33630	6.9674E-3	4.3910E-2	1	3	33	14177	positive regulation of cell adhesion mediated by integrin	Q13443
+19805	6.9674E-3	4.3910E-2	1	3	33	14177	quinolinate biosynthetic process	P46952
+1661	6.9674E-3	4.3910E-2	1	3	33	14177	conditioned taste aversion	P17787
+34776	6.9674E-3	4.3910E-2	1	3	33	14177	response to histamine	P21917
+90077	6.9674E-3	4.3910E-2	1	3	33	14177	foam cell differentiation	P35610
+9308	7.2241E-3	4.4882E-2	2	55	33	14177	amine metabolic process	P21917|O15229
+7612	7.2241E-3	4.4882E-2	2	55	33	14177	learning	P17787|P54253
+6810	7.5236E-3	4.6413E-2	12	2479	33	14177	transport	P17787|P51693|P49790|Q09470|P54253|P35610|P43681|P49810|Q05940|P21917|P13521|Q14003
+51246	7.8207E-3	4.7908E-2	6	768	33	14177	regulation of protein metabolic process	P51693|Q13443|Q15392|P35610|P49810|Q9Y5Z0
+7267	7.9634E-3	4.8444E-2	5	544	33	14177	cell-cell signaling	P17787|Q09470|P54253|P43681|P21917

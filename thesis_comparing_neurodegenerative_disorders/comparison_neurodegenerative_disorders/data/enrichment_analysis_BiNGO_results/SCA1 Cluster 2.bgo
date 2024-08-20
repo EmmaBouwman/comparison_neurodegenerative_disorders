@@ -1,0 +1,155 @@
+File created with BiNGO v3.0.5  (c) on 18 aug. 2024 at 12:42:32
+
+ontology: unknown
+curator:  unknown
+
+Selected ontology file : C:\Users\emmab\Downloads\go-basic.obo
+Selected annotation file : bundle://807aa849-5a07-4917-b8a2-275e7e29f20a_126.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+P31689	P54259	P56524	Q9BZY3	Q14643	P07900	Q6NUR9	P04406	P54253	P50502	Q06787	P10275	P34932	Q58EX7	Q06330	Q9UNE7	Q6NXU4	Q92993	P26368	Q93009	Q6IQ55	P49768	
+
+No annotations were retrieved for the following entities:
+Q9BZY3	Q6NUR9	Q6NXU4	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+35966	1.9974E-6	1.6279E-3	4	70	19	14177	response to topologically incorrect protein	P31689|Q9UNE7|P07900|P34932
+70096	1.0194E-5	2.7694E-3	2	4	19	14177	mitochondrial outer membrane translocase complex assembly	P07900|P34932
+7008	1.0194E-5	2.7694E-3	2	4	19	14177	outer mitochondrial membrane organization	P07900|P34932
+51604	1.8461E-5	3.1853E-3	5	259	19	14177	protein maturation	P31689|Q9UNE7|P07900|P50502|P49768
+30521	1.9542E-5	3.1853E-3	3	40	19	14177	androgen receptor signaling pathway	P31689|Q92993|P10275
+32469	2.5444E-5	3.4562E-3	2	6	19	14177	endoplasmic reticulum calcium ion homeostasis	Q14643|P49768
+51131	3.5593E-5	4.1441E-3	2	7	19	14177	chaperone-mediated protein complex assembly	P07900|P34932
+9893	4.8217E-5	4.9121E-3	8	1112	19	14177	positive regulation of metabolic process	Q9UNE7|P56524|P07900|P54253|Q92993|P10275|Q06330|P49768
+31324	5.6239E-5	5.0927E-3	7	817	19	14177	negative regulation of cellular metabolic process	P54259|P56524|P54253|Q06787|Q92993|Q06330|P49768
+43401	6.9930E-5	5.1541E-3	3	61	19	14177	steroid hormone receptor signaling pathway	P31689|Q92993|P10275
+30518	6.9930E-5	5.1541E-3	3	61	19	14177	nuclear receptor-mediated steroid hormone signaling pathway	P31689|Q92993|P10275
+10605	8.7689E-5	5.1541E-3	7	876	19	14177	negative regulation of macromolecule metabolic process	P54259|P56524|P54253|Q06787|Q92993|Q06330|P49768
+6986	8.8537E-5	5.1541E-3	3	66	19	14177	response to unfolded protein	P31689|P07900|P34932
+71383	8.8537E-5	5.1541E-3	3	66	19	14177	cellular response to steroid hormone stimulus	P31689|Q92993|P10275
+9892	1.2372E-4	6.3456E-3	7	925	19	14177	negative regulation of metabolic process	P54259|P56524|P54253|Q06787|Q92993|Q06330|P49768
+141193	1.2458E-4	6.3456E-3	3	74	19	14177	nuclear receptor-mediated signaling pathway	P31689|Q92993|P10275
+43567	1.5338E-4	7.3531E-3	2	14	19	14177	regulation of insulin-like growth factor receptor signaling pathway	P54253|P10275
+30522	1.6904E-4	7.5142E-3	3	82	19	14177	intracellular receptor signaling pathway	P31689|Q92993|P10275
+43170	1.7518E-4	7.5142E-3	13	3792	19	14177	macromolecule metabolic process	P31689|P56524|P07900|P54253|P50502|P10275|Q06330|Q9UNE7|Q92993|P26368|Q93009|Q6IQ55|P49768
+10558	1.9657E-4	8.0103E-3	6	685	19	14177	negative regulation of macromolecule biosynthetic process	P54259|P56524|P54253|Q06787|Q92993|Q06330
+31327	2.2125E-4	8.5867E-3	6	700	19	14177	negative regulation of cellular biosynthetic process	P54259|P56524|P54253|Q06787|Q92993|Q06330
+9890	2.3358E-4	8.6532E-3	6	707	19	14177	negative regulation of biosynthetic process	P54259|P56524|P54253|Q06787|Q92993|Q06330
+10604	2.9669E-4	1.0513E-2	7	1064	19	14177	positive regulation of macromolecule metabolic process	Q9UNE7|P56524|P54253|Q92993|P10275|Q06330|P49768
+45892	3.2876E-4	1.0797E-2	5	476	19	14177	negative regulation of DNA-templated transcription	P54259|P56524|P54253|Q92993|Q06330
+1902679	3.3519E-4	1.0797E-2	5	478	19	14177	negative regulation of RNA biosynthetic process	P54259|P56524|P54253|Q92993|Q06330
+10467	3.6365E-4	1.0797E-2	8	1480	19	14177	gene expression	P31689|Q9UNE7|P07900|P54253|P50502|P26368|P10275|P49768
+71396	3.7093E-4	1.0797E-2	3	107	19	14177	cellular response to lipid	P31689|Q92993|P10275
+71407	3.7093E-4	1.0797E-2	3	107	19	14177	cellular response to organic cyclic compound	P31689|Q92993|P10275
+8219	3.9773E-4	1.1178E-2	6	780	19	14177	cell death	P54259|Q14643|P54253|P10275|Q6IQ55|P49768
+51253	4.1248E-4	1.1206E-2	5	500	19	14177	negative regulation of RNA metabolic process	P54259|P56524|P54253|Q92993|Q06330
+9891	4.7121E-4	1.2388E-2	6	805	19	14177	positive regulation of biosynthetic process	P56524|P07900|P54253|Q92993|P10275|Q06330
+8152	5.0996E-4	1.2988E-2	15	5573	19	14177	metabolic process	P31689|P54259|P56524|P07900|P04406|P54253|P50502|P10275|Q06330|Q9UNE7|Q92993|P26368|Q93009|Q6IQ55|P49768
+45934	5.9192E-4	1.4619E-2	5	541	19	14177	negative regulation of nucleobase-containing compound metabolic process	P54259|P56524|P54253|Q92993|Q06330
+9755	6.5568E-4	1.5519E-2	3	130	19	14177	hormone-mediated signaling pathway	P31689|Q92993|P10275
+7006	6.7615E-4	1.5519E-2	2	29	19	14177	mitochondrial membrane organization	P07900|P34932
+45893	7.0976E-4	1.5519E-2	5	563	19	14177	positive regulation of DNA-templated transcription	P56524|P54253|Q92993|P10275|Q06330
+1902680	7.1551E-4	1.5519E-2	5	564	19	14177	positive regulation of RNA biosynthetic process	P56524|P54253|Q92993|P10275|Q06330
+44238	7.2358E-4	1.5519E-2	14	4996	19	14177	primary metabolic process	P31689|P56524|P07900|P04406|P54253|P50502|P10275|Q06330|Q9UNE7|Q92993|P26368|Q93009|Q6IQ55|P49768
+51254	7.7493E-4	1.6194E-2	5	574	19	14177	positive regulation of RNA metabolic process	P56524|P54253|Q92993|P10275|Q06330
+45936	8.1338E-4	1.6506E-2	3	140	19	14177	negative regulation of phosphate metabolic process	P56524|P54253|P49768
+10563	8.3036E-4	1.6506E-2	3	141	19	14177	negative regulation of phosphorus metabolic process	P56524|P54253|P49768
+6950	8.9947E-4	1.7454E-2	8	1690	19	14177	response to stress	P31689|Q9UNE7|P56524|Q14643|P07900|Q92993|P34932|P49768
+9059	1.0124E-3	1.7498E-2	8	1720	19	14177	macromolecule biosynthetic process	P31689|Q9UNE7|P07900|P54253|P50502|P26368|P10275|P49768
+43393	1.1021E-3	1.7498E-2	2	37	19	14177	regulation of protein binding	P56524|P49768
+31325	1.1276E-3	1.7498E-2	6	949	19	14177	positive regulation of cellular metabolic process	P56524|P54253|Q92993|P10275|Q06330|P49768
+45935	1.1709E-3	1.7498E-2	5	629	19	14177	positive regulation of nucleobase-containing compound metabolic process	P56524|P54253|Q92993|P10275|Q06330
+6839	1.2876E-3	1.7498E-2	2	40	19	14177	mitochondrial transport	P07900|P49768
+6457	1.3309E-3	1.7498E-2	3	166	19	14177	protein folding	P31689|P07900|P50502
+30812	1.3402E-3	1.7498E-2	1	1	19	14177	negative regulation of nucleotide catabolic process	P56524
+33122	1.3402E-3	1.7498E-2	1	1	19	14177	negative regulation of purine nucleotide catabolic process	P56524
+14854	1.3402E-3	1.7498E-2	1	1	19	14177	response to inactivity	P56524
+14870	1.3402E-3	1.7498E-2	1	1	19	14177	response to muscle inactivity	P56524
+14877	1.3402E-3	1.7498E-2	1	1	19	14177	response to muscle inactivity involved in regulation of muscle adaptation	P56524
+14894	1.3402E-3	1.7498E-2	1	1	19	14177	response to denervation involved in regulation of muscle adaptation	P56524
+19102	1.3402E-3	1.7498E-2	1	1	19	14177	male somatic sex determination	P10275
+45820	1.3402E-3	1.7498E-2	1	1	19	14177	negative regulation of glycolytic process	P56524
+1903579	1.3402E-3	1.7498E-2	1	1	19	14177	negative regulation of ATP metabolic process	P56524
+60520	1.3402E-3	1.7498E-2	1	1	19	14177	activation of prostate induction by androgen receptor signaling pathway	P10275
+21870	1.3402E-3	1.7498E-2	1	1	19	14177	Cajal-Retzius cell differentiation	P49768
+71218	1.3402E-3	1.7498E-2	1	1	19	14177	cellular response to misfolded protein	Q9UNE7
+1900543	1.3402E-3	1.7498E-2	1	1	19	14177	negative regulation of purine nucleotide metabolic process	P56524
+1903322	1.3526E-3	1.7498E-2	2	41	19	14177	positive regulation of protein modification by small protein conjugation or removal	Q9UNE7|P56524
+1901875	1.3526E-3	1.7498E-2	2	41	19	14177	positive regulation of post-translational protein modification	Q9UNE7|P56524
+48523	1.7220E-3	2.1929E-2	8	1863	19	14177	negative regulation of cellular process	P54259|P56524|P54253|Q06787|Q92993|P10275|Q06330|P49768
+48545	1.9896E-3	2.4773E-2	3	191	19	14177	response to steroid hormone	P31689|Q92993|P10275
+7219	2.0062E-3	2.4773E-2	2	50	19	14177	Notch signaling pathway	Q06330|P49768
+6357	2.3105E-3	2.7989E-2	5	733	19	14177	regulation of transcription by RNA polymerase II	P54259|P56524|P54253|Q92993|P10275
+51563	2.6787E-3	2.7989E-2	1	2	19	14177	smooth endoplasmic reticulum calcium ion homeostasis	P49768
+6515	2.6787E-3	2.7989E-2	1	2	19	14177	protein quality control for misfolded or incompletely synthesized proteins	Q9UNE7
+14887	2.6787E-3	2.7989E-2	1	2	19	14177	cardiac muscle adaptation	P56524
+18993	2.6787E-3	2.7989E-2	1	2	19	14177	somatic sex determination	P10275
+14898	2.6787E-3	2.7989E-2	1	2	19	14177	cardiac muscle hypertrophy in response to stress	P56524
+60075	2.6787E-3	2.7989E-2	1	2	19	14177	regulation of resting membrane potential	P49768
+60599	2.6787E-3	2.7989E-2	1	2	19	14177	lateral sprouting involved in mammary gland duct morphogenesis	P10275
+3299	2.6787E-3	2.7989E-2	1	2	19	14177	muscle hypertrophy in response to stress	P56524
+50882	2.6787E-3	2.7989E-2	1	2	19	14177	voluntary musculoskeletal movement	Q14643
+90035	2.6787E-3	2.7989E-2	1	2	19	14177	positive regulation of chaperone-mediated protein complex assembly	Q9UNE7
+90034	2.6787E-3	2.7989E-2	1	2	19	14177	regulation of chaperone-mediated protein complex assembly	Q9UNE7
+48518	2.8089E-3	2.8553E-2	8	2008	19	14177	positive regulation of biological process	Q9UNE7|P56524|P07900|P54253|Q92993|P10275|Q06330|P49768
+19222	2.8286E-3	2.8553E-2	11	3635	19	14177	regulation of metabolic process	Q9UNE7|P54259|P56524|P07900|P54253|Q06787|Q92993|P10275|Q93009|Q06330|P49768
+44249	2.8636E-3	2.8553E-2	8	2014	19	14177	cellular biosynthetic process	P31689|Q9UNE7|P07900|P54253|P50502|P26368|P10275|P49768
+48519	2.8728E-3	2.8553E-2	8	2015	19	14177	negative regulation of biological process	P54259|P56524|P54253|Q06787|Q92993|P10275|Q06330|P49768
+10557	2.9319E-3	2.8789E-2	5	774	19	14177	positive regulation of macromolecule biosynthetic process	P56524|P54253|Q92993|P10275|Q06330
+1903320	3.0674E-3	2.9069E-2	2	62	19	14177	regulation of protein modification by small protein conjugation or removal	Q9UNE7|P56524
+1901873	3.0674E-3	2.9069E-2	2	62	19	14177	regulation of post-translational protein modification	Q9UNE7|P56524
+9791	3.0674E-3	2.9069E-2	2	62	19	14177	post-embryonic development	Q14643|P49768
+31328	3.1698E-3	2.9694E-2	5	788	19	14177	positive regulation of cellular biosynthetic process	P56524|P54253|Q92993|P10275|Q06330
+9408	3.2649E-3	3.0238E-2	2	64	19	14177	response to heat	P31689|P34932
+44237	3.5044E-3	3.1468E-2	11	3727	19	14177	cellular metabolic process	P31689|Q9UNE7|P54259|P07900|P04406|P54253|P50502|P26368|P10275|Q6IQ55|P49768
+32870	3.7549E-3	3.1468E-2	3	239	19	14177	cellular response to hormone stimulus	P31689|Q92993|P10275
+31401	3.9340E-3	3.1468E-2	3	243	19	14177	positive regulation of protein modification process	Q9UNE7|P56524|P49768
+14874	4.0155E-3	3.1468E-2	1	3	19	14177	response to stimulus involved in regulation of muscle adaptation	P56524
+14897	4.0155E-3	3.1468E-2	1	3	19	14177	striated muscle hypertrophy	P56524
+10832	4.0155E-3	3.1468E-2	1	3	19	14177	negative regulation of myotube differentiation	P56524
+10882	4.0155E-3	3.1468E-2	1	3	19	14177	regulation of cardiac muscle contraction by calcium ion signaling	P56524
+45980	4.0155E-3	3.1468E-2	1	3	19	14177	negative regulation of nucleotide metabolic process	P56524
+31943	4.0155E-3	3.1468E-2	1	3	19	14177	regulation of glucocorticoid metabolic process	Q9UNE7
+3300	4.0155E-3	3.1468E-2	1	3	19	14177	cardiac muscle hypertrophy	P56524
+60748	4.0155E-3	3.1468E-2	1	3	19	14177	tertiary branching involved in mammary gland duct morphogenesis	P10275
+15871	4.0155E-3	3.1468E-2	1	3	19	14177	choline transport	P49768
+34392	4.0155E-3	3.1468E-2	1	3	19	14177	negative regulation of smooth muscle cell apoptotic process	Q06330
+48742	4.0155E-3	3.1468E-2	1	3	19	14177	regulation of skeletal muscle fiber development	P56524
+16080	4.0155E-3	3.1468E-2	1	3	19	14177	synaptic vesicle targeting	P49768
+51154	4.0155E-3	3.1468E-2	1	3	19	14177	negative regulation of striated muscle cell differentiation	P56524
+51098	4.3395E-3	3.3683E-2	2	74	19	14177	regulation of binding	P56524|P49768
+6874	4.4549E-3	3.4252E-2	2	75	19	14177	intracellular calcium ion homeostasis	Q14643|P49768
+9628	4.5942E-3	3.4993E-2	4	524	19	14177	response to abiotic stimulus	P31689|Q14643|P54253|P34932
+51716	4.9441E-3	3.7309E-2	10	3281	19	14177	cellular response to stimulus	P31689|Q9UNE7|P56524|Q14643|P07900|P54253|Q92993|P10275|Q06330|P49768
+55074	5.3018E-3	3.8591E-2	2	82	19	14177	calcium ion homeostasis	Q14643|P49768
+34983	5.3506E-3	3.8591E-2	1	4	19	14177	peptidyl-lysine deacetylation	P56524
+33145	5.3506E-3	3.8591E-2	1	4	19	14177	positive regulation of intracellular steroid hormone receptor signaling pathway	P10275
+33148	5.3506E-3	3.8591E-2	1	4	19	14177	positive regulation of intracellular estrogen receptor signaling pathway	P10275
+51788	5.3506E-3	3.8591E-2	1	4	19	14177	response to misfolded protein	Q9UNE7
+48522	6.1250E-3	4.3488E-2	7	1776	19	14177	positive regulation of cellular process	Q9UNE7|P56524|P54253|Q92993|P10275|Q06330|P49768
+122	6.1364E-3	4.3488E-2	3	285	19	14177	negative regulation of transcription by RNA polymerase II	P54259|P56524|Q92993
+31323	6.2873E-3	4.4174E-2	10	3386	19	14177	regulation of cellular metabolic process	Q9UNE7|P54259|P56524|P54253|Q06787|Q92993|P10275|Q93009|Q06330|P49768
+7165	6.6802E-3	4.4651E-2	9	2839	19	14177	signal transduction	P31689|P56524|Q14643|P07900|P54253|Q92993|P10275|Q06330|P49768
+14896	6.6840E-3	4.4651E-2	1	5	19	14177	muscle hypertrophy	P56524
+43569	6.6840E-3	4.4651E-2	1	5	19	14177	negative regulation of insulin-like growth factor receptor signaling pathway	P54253
+42026	6.6840E-3	4.4651E-2	1	5	19	14177	protein refolding	P07900
+60601	6.6840E-3	4.4651E-2	1	5	19	14177	lateral sprouting from an epithelium	P10275
+50435	6.6840E-3	4.4651E-2	1	5	19	14177	amyloid-beta metabolic process	P49768
+80090	6.8715E-3	4.5530E-2	10	3426	19	14177	regulation of primary metabolic process	Q9UNE7|P54259|P56524|P54253|Q06787|Q92993|P10275|Q93009|Q06330|P49768
+7005	7.4918E-3	4.8709E-2	2	98	19	14177	mitochondrion organization	P07900|P34932
+9266	7.4918E-3	4.8709E-2	2	98	19	14177	response to temperature stimulus	P31689|P34932
+42391	7.7899E-3	4.8709E-2	2	100	19	14177	regulation of membrane potential	P54253|P49768
+10656	8.0157E-3	4.8709E-2	1	6	19	14177	negative regulation of muscle cell apoptotic process	Q06330
+33233	8.0157E-3	4.8709E-2	1	6	19	14177	regulation of protein sumoylation	P56524
+33235	8.0157E-3	4.8709E-2	1	6	19	14177	positive regulation of protein sumoylation	P56524
+14888	8.0157E-3	4.8709E-2	1	6	19	14177	striated muscle adaptation	P56524
+1905332	8.0157E-3	4.8709E-2	1	6	19	14177	positive regulation of morphogenesis of an epithelium	P10275
+7220	8.0157E-3	4.8709E-2	1	6	19	14177	Notch receptor processing	P49768
+60685	8.0157E-3	4.8709E-2	1	6	19	14177	regulation of prostatic bud formation	P10275
+60745	8.0157E-3	4.8709E-2	1	6	19	14177	mammary gland branching involved in pregnancy	P10275
+60255	8.0684E-3	4.8709E-2	10	3500	19	14177	regulation of macromolecule metabolic process	Q9UNE7|P54259|P56524|P54253|Q06787|Q92993|P10275|Q93009|Q06330|P49768

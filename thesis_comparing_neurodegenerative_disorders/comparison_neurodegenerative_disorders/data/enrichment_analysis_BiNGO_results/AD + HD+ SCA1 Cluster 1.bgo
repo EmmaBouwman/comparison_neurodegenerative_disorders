@@ -1,0 +1,263 @@
+File created with BiNGO v3.0.5  (c) on 18 aug. 2024 at 16:16:02
+
+ontology: unknown
+curator:  unknown
+
+Selected ontology file : C:\Users\emmab\Downloads\go-basic.obo
+Selected annotation file : bundle://807aa849-5a07-4917-b8a2-275e7e29f20a_126.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+Q5TEC6	Q96TC4	Q9H3M9	Q96DJ0	P37840	Q99700	P11142	P67775	Q8NI43	Q9UHD9	Q96LT7	P42858	Q71DI3	Q9UC33	Q16695	P55072	P25685	P00441	
+
+No annotations were retrieved for the following entities:
+Q5TEC6	Q96TC4	Q8NI43	Q9UHD9	Q96LT7	Q9UC33	Q96DJ0	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+43524	7.0913E-6	3.2546E-3	3	51	11	14177	negative regulation of neuron apoptotic process	P42858|P37840|P00441
+61024	8.2603E-6	3.2546E-3	4	183	11	14177	membrane organization	P11142|P42858|P37840|P00441
+6986	1.5483E-5	3.6426E-3	3	66	11	14177	response to unfolded protein	P11142|P55072|P25685
+35966	1.8490E-5	3.6426E-3	3	70	11	14177	response to topologically incorrect protein	P11142|P55072|P25685
+43523	2.3686E-5	3.7329E-3	3	76	11	14177	regulation of neuron apoptotic process	P42858|P37840|P00441
+16043	3.2118E-5	4.2181E-3	8	2173	11	14177	cellular component organization	Q99700|P11142|P42858|Q71DI3|Q16695|P37840|P55072|P00441
+71840	4.6579E-5	5.2435E-3	8	2283	11	14177	cellular component organization or biogenesis	Q99700|P11142|P42858|Q71DI3|Q16695|P37840|P55072|P00441
+42391	5.3929E-5	5.3086E-3	3	100	11	14177	regulation of membrane potential	P42858|P37840|P00441
+7626	6.0631E-5	5.3086E-3	3	104	11	14177	locomotory behavior	P42858|P37840|P00441
+1902930	8.3177E-5	5.9585E-3	2	18	11	14177	regulation of alcohol biosynthetic process	P37840|P00441
+51881	8.3177E-5	5.9585E-3	2	18	11	14177	regulation of mitochondrial membrane potential	P42858|P00441
+48193	1.1781E-4	7.7360E-3	3	130	11	14177	Golgi vesicle transport	P11142|P42858|P55072
+51246	1.6179E-4	9.1459E-3	5	768	11	14177	regulation of protein metabolic process	Q99700|P67775|P37840|P55072|P00441
+10038	1.6956E-4	9.1459E-3	3	147	11	14177	response to metal ion	P42858|P37840|P00441
+8219	1.7410E-4	9.1459E-3	5	780	11	14177	cell death	Q99700|P67775|P42858|P37840|P00441
+43603	2.1780E-4	1.0183E-2	3	160	11	14177	amide metabolic process	P67775|P42858|P00441
+7006	2.1969E-4	1.0183E-2	2	29	11	14177	mitochondrial membrane organization	P42858|P37840
+34599	3.3989E-4	1.4880E-2	2	36	11	14177	cellular response to oxidative stress	P37840|P00441
+62197	3.7896E-4	1.5717E-2	2	38	11	14177	cellular response to chemical stress	P37840|P00441
+6888	3.9927E-4	1.5731E-2	2	39	11	14177	endoplasmic reticulum to Golgi vesicle-mediated transport	P42858|P55072
+40014	6.3099E-4	1.6525E-2	2	49	11	14177	regulation of multicellular organism growth	Q99700|P00441
+16192	6.6284E-4	1.6525E-2	4	566	11	14177	vesicle-mediated transport	P11142|P42858|P37840|P55072
+42981	7.5089E-4	1.6525E-2	4	585	11	14177	regulation of apoptotic process	P42858|P37840|P55072|P00441
+43217	7.7590E-4	1.6525E-2	1	1	11	14177	myelin maintenance	P00441
+51581	7.7590E-4	1.6525E-2	1	1	11	14177	negative regulation of neurotransmitter uptake	P37840
+51585	7.7590E-4	1.6525E-2	1	1	11	14177	negative regulation of dopamine uptake involved in synaptic transmission	P37840
+51611	7.7590E-4	1.6525E-2	1	1	11	14177	regulation of serotonin uptake	P37840
+51612	7.7590E-4	1.6525E-2	1	1	11	14177	negative regulation of serotonin uptake	P37840
+51621	7.7590E-4	1.6525E-2	1	1	11	14177	regulation of norepinephrine uptake	P37840
+51622	7.7590E-4	1.6525E-2	1	1	11	14177	negative regulation of norepinephrine uptake	P37840
+51945	7.7590E-4	1.6525E-2	1	1	11	14177	negative regulation of catecholamine uptake involved in synaptic transmission	P37840
+19244	7.7590E-4	1.6525E-2	1	1	11	14177	lactate biosynthetic process from pyruvate	P42858
+19249	7.7590E-4	1.6525E-2	1	1	11	14177	lactate biosynthetic process	P42858
+70495	7.7590E-4	1.6525E-2	1	1	11	14177	negative regulation of thrombin-activated receptor signaling pathway	P37840
+70494	7.7590E-4	1.6525E-2	1	1	11	14177	regulation of thrombin-activated receptor signaling pathway	P37840
+21990	7.7590E-4	1.6525E-2	1	1	11	14177	neural plate formation	P42858
+32287	7.7590E-4	1.6525E-2	1	1	11	14177	peripheral nervous system myelin maintenance	P00441
+43067	8.0045E-4	1.6599E-2	4	595	11	14177	regulation of programmed cell death	P42858|P37840|P55072|P00441
+48167	8.5344E-4	1.7244E-2	2	57	11	14177	regulation of synaptic plasticity	P42858|P37840
+6302	9.1416E-4	1.8009E-2	2	59	11	14177	double-strand break repair	P55072|P00441
+7610	1.3909E-3	2.4947E-2	3	302	11	14177	behavior	P42858|P37840|P00441
+7498	1.4340E-3	2.4947E-2	2	74	11	14177	mesoderm development	P67775|P42858
+52	1.5513E-3	2.4947E-2	1	2	11	14177	citrulline metabolic process	P42858
+51589	1.5513E-3	2.4947E-2	1	2	11	14177	negative regulation of neurotransmitter transport	P37840
+10642	1.5513E-3	2.4947E-2	1	2	11	14177	negative regulation of platelet-derived growth factor receptor signaling pathway	P37840
+33962	1.5513E-3	2.4947E-2	1	2	11	14177	P-body assembly	Q99700
+34063	1.5513E-3	2.4947E-2	1	2	11	14177	stress granule assembly	Q99700
+60732	1.5513E-3	2.4947E-2	1	2	11	14177	positive regulation of inositol phosphate biosynthetic process	P37840
+10040	1.5513E-3	2.4947E-2	1	2	11	14177	response to iron(II) ion	P37840
+6334	1.6734E-3	2.6373E-2	2	80	11	14177	nucleosome assembly	Q71DI3|Q16695
+34728	1.9306E-3	2.7772E-2	2	86	11	14177	nucleosome organization	Q71DI3|Q16695
+1901617	1.9752E-3	2.7772E-2	2	87	11	14177	organic hydroxy compound biosynthetic process	P42858|P37840
+40008	2.0216E-3	2.7772E-2	3	344	11	14177	regulation of growth	Q99700|P67775|P00441
+65004	2.0659E-3	2.7772E-2	2	89	11	14177	protein-DNA complex assembly	Q71DI3|Q16695
+10243	2.1415E-3	2.7772E-2	3	351	11	14177	response to organonitrogen compound	P42858|P55072|P00441
+43281	2.2055E-3	2.7772E-2	2	92	11	14177	regulation of cysteine-type endopeptidase activity involved in apoptotic process	P37840|P55072
+2000116	2.2055E-3	2.7772E-2	2	92	11	14177	regulation of cysteine-type endopeptidase activity	P37840|P55072
+90206	2.3261E-3	2.7772E-2	1	3	11	14177	negative regulation of cholesterol metabolic process	P00441
+45541	2.3261E-3	2.7772E-2	1	3	11	14177	negative regulation of cholesterol biosynthetic process	P00441
+10919	2.3261E-3	2.7772E-2	1	3	11	14177	regulation of inositol phosphate biosynthetic process	P37840
+60087	2.3261E-3	2.7772E-2	1	3	11	14177	relaxation of vascular associated smooth muscle	P00441
+19805	2.3261E-3	2.7772E-2	1	3	11	14177	quinolinate biosynthetic process	P42858
+44557	2.3261E-3	2.7772E-2	1	3	11	14177	relaxation of smooth muscle	P00441
+106119	2.3261E-3	2.7772E-2	1	3	11	14177	negative regulation of sterol biosynthetic process	P00441
+1839	2.3261E-3	2.7772E-2	1	3	11	14177	neural plate morphogenesis	P42858
+6089	2.3261E-3	2.7772E-2	1	3	11	14177	lactate metabolic process	P42858
+1901698	2.4511E-3	2.8119E-2	3	368	11	14177	response to nitrogen compound	P42858|P55072|P00441
+43066	2.4701E-3	2.8119E-2	3	369	11	14177	negative regulation of apoptotic process	P42858|P37840|P00441
+7005	2.4979E-3	2.8119E-2	2	98	11	14177	mitochondrion organization	P42858|P37840
+52548	2.4979E-3	2.8119E-2	2	98	11	14177	regulation of endopeptidase activity	P37840|P55072
+43069	2.5667E-3	2.8447E-2	3	374	11	14177	negative regulation of programmed cell death	P42858|P37840|P00441
+10256	2.5992E-3	2.8447E-2	2	100	11	14177	endomembrane system organization	P42858|P00441
+52547	2.7548E-3	2.9737E-2	2	103	11	14177	regulation of peptidase activity	P37840|P55072
+22607	2.9116E-3	3.0161E-2	4	842	11	14177	cellular component assembly	Q99700|Q71DI3|Q16695|P55072
+2093	3.1003E-3	3.0161E-2	1	4	11	14177	auditory receptor cell morphogenesis	P00441
+10640	3.1003E-3	3.0161E-2	1	4	11	14177	regulation of platelet-derived growth factor receptor signaling pathway	P37840
+60088	3.1003E-3	3.0161E-2	1	4	11	14177	auditory receptor cell stereocilium organization	P00441
+70841	3.1003E-3	3.0161E-2	1	4	11	14177	inclusion body assembly	P55072
+70842	3.1003E-3	3.0161E-2	1	4	11	14177	aggresome assembly	P55072
+1840	3.1003E-3	3.0161E-2	1	4	11	14177	neural plate development	P42858
+1956	3.1003E-3	3.0161E-2	1	4	11	14177	positive regulation of neurotransmitter secretion	P37840
+48638	3.1908E-3	3.0663E-2	2	111	11	14177	regulation of developmental growth	Q99700|P00441
+6996	3.4783E-3	3.1226E-2	4	884	11	14177	organelle organization	Q99700|P42858|P37840|P00441
+1901564	3.4931E-3	3.1226E-2	7	3117	11	14177	organonitrogen compound metabolic process	P11142|P67775|P42858|P37840|P55072|P25685|P00441
+62012	3.7176E-3	3.1226E-2	2	120	11	14177	regulation of small molecule metabolic process	P37840|P00441
+30970	3.8741E-3	3.1226E-2	1	5	11	14177	retrograde protein transport, ER to cytosol	P55072
+60117	3.8741E-3	3.1226E-2	1	5	11	14177	auditory receptor cell development	P00441
+45920	3.8741E-3	3.1226E-2	1	5	11	14177	negative regulation of exocytosis	P37840
+60291	3.8741E-3	3.1226E-2	1	5	11	14177	long-term synaptic potentiation	P37840
+1903513	3.8741E-3	3.1226E-2	1	5	11	14177	endoplasmic reticulum to cytosol transport	P55072
+45986	3.8741E-3	3.1226E-2	1	5	11	14177	negative regulation of smooth muscle contraction	P00441
+42532	3.8741E-3	3.1226E-2	1	5	11	14177	negative regulation of tyrosine phosphorylation of STAT protein	P67775
+36503	3.8741E-3	3.1226E-2	1	5	11	14177	ERAD pathway	P55072
+32527	3.8741E-3	3.1226E-2	1	5	11	14177	protein exit from endoplasmic reticulum	P55072
+46874	3.8741E-3	3.1226E-2	1	5	11	14177	quinolinate metabolic process	P42858
+1921	3.8741E-3	3.1226E-2	1	5	11	14177	positive regulation of receptor recycling	P37840
+90075	3.8741E-3	3.1226E-2	1	5	11	14177	relaxation of muscle	P00441
+45926	3.9639E-3	3.1226E-2	2	124	11	14177	negative regulation of growth	Q99700|P67775
+19220	4.0160E-3	3.1226E-2	3	438	11	14177	regulation of phosphate metabolic process	P67775|P37840|P00441
+99177	4.0266E-3	3.1226E-2	2	125	11	14177	regulation of trans-synaptic signaling	P42858|P37840
+50804	4.0266E-3	3.1226E-2	2	125	11	14177	modulation of chemical synaptic transmission	P42858|P37840
+51174	4.0419E-3	3.1226E-2	3	439	11	14177	regulation of phosphorus metabolic process	P67775|P37840|P00441
+70887	4.4429E-3	3.2407E-2	3	454	11	14177	cellular response to chemical stimulus	P42858|P37840|P00441
+1904893	4.6472E-3	3.2407E-2	1	6	11	14177	negative regulation of receptor signaling pathway via STAT	P67775
+1902932	4.6472E-3	3.2407E-2	1	6	11	14177	positive regulation of alcohol biosynthetic process	P37840
+51580	4.6472E-3	3.2407E-2	1	6	11	14177	regulation of neurotransmitter uptake	P37840
+51584	4.6472E-3	3.2407E-2	1	6	11	14177	regulation of dopamine uptake involved in synaptic transmission	P37840
+51590	4.6472E-3	3.2407E-2	1	6	11	14177	positive regulation of neurotransmitter transport	P37840
+51940	4.6472E-3	3.2407E-2	1	6	11	14177	regulation of catecholamine uptake involved in synaptic transmission	P37840
+48341	4.6472E-3	3.2407E-2	1	6	11	14177	paraxial mesoderm formation	P42858
+46426	4.6472E-3	3.2407E-2	1	6	11	14177	negative regulation of receptor signaling pathway via JAK-STAT	P67775
+22011	4.6472E-3	3.2407E-2	1	6	11	14177	myelination in peripheral nervous system	P00441
+32292	4.6472E-3	3.2407E-2	1	6	11	14177	peripheral nervous system axon ensheathment	P00441
+44085	4.7626E-3	3.2920E-2	4	964	11	14177	cellular component biogenesis	Q99700|Q71DI3|Q16695|P55072
+19216	4.8157E-3	3.2998E-2	2	137	11	14177	regulation of lipid metabolic process	P37840|P00441
+9058	5.3765E-3	3.3366E-2	6	2436	11	14177	biosynthetic process	P11142|P67775|P42858|P37840|P25685|P00441
+98869	5.4199E-3	3.3366E-2	1	7	11	14177	cellular oxidant detoxification	P00441
+60052	5.4199E-3	3.3366E-2	1	7	11	14177	neurofilament cytoskeleton organization	P00441
+60122	5.4199E-3	3.3366E-2	1	7	11	14177	inner ear receptor cell stereocilium organization	P00441
+140238	5.4199E-3	3.3366E-2	1	7	11	14177	presynaptic endocytosis	P37840
+19430	5.4199E-3	3.3366E-2	1	7	11	14177	removal of superoxide radicals	P00441
+40015	5.4199E-3	3.3366E-2	1	7	11	14177	negative regulation of multicellular organism growth	Q99700
+48488	5.4199E-3	3.3366E-2	1	7	11	14177	synaptic vesicle endocytosis	P37840
+42416	5.4199E-3	3.3366E-2	1	7	11	14177	dopamine biosynthetic process	P37840
+36465	5.4199E-3	3.3366E-2	1	7	11	14177	synaptic vesicle recycling	P37840
+14044	5.4199E-3	3.3366E-2	1	7	11	14177	Schwann cell development	P00441
+71451	5.4199E-3	3.3366E-2	1	7	11	14177	cellular response to superoxide	P00441
+71450	5.4199E-3	3.3366E-2	1	7	11	14177	cellular response to oxygen radical	P00441
+6950	5.9467E-3	3.6016E-2	5	1690	11	14177	response to stress	P11142|P37840|P55072|P25685|P00441
+1990748	6.1919E-3	3.6016E-2	1	8	11	14177	cellular detoxification	P00441
+1902931	6.1919E-3	3.6016E-2	1	8	11	14177	negative regulation of alcohol biosynthetic process	P00441
+60119	6.1919E-3	3.6016E-2	1	8	11	14177	inner ear receptor cell development	P00441
+1903409	6.1919E-3	3.6016E-2	1	8	11	14177	reactive oxygen species biosynthetic process	P00441
+97237	6.1919E-3	3.6016E-2	1	8	11	14177	cellular response to toxic substance	P00441
+50665	6.1919E-3	3.6016E-2	1	8	11	14177	hydrogen peroxide biosynthetic process	P00441
+19953	6.5299E-3	3.6016E-2	3	521	11	14177	sexual reproduction	P67775|P42858|P00441
+6338	6.5908E-3	3.6016E-2	2	161	11	14177	chromatin remodeling	Q71DI3|Q16695
+33554	6.7056E-3	3.6016E-2	3	526	11	14177	cellular response to stress	P37840|P55072|P00441
+30162	6.9117E-3	3.6016E-2	2	165	11	14177	regulation of proteolysis	P37840|P55072
+8340	6.9635E-3	3.6016E-2	1	9	11	14177	determination of adult lifespan	P42858
+47496	6.9635E-3	3.6016E-2	1	9	11	14177	vesicle transport along microtubule	P42858
+90559	6.9635E-3	3.6016E-2	1	9	11	14177	regulation of membrane permeability	P42858
+98754	6.9635E-3	3.6016E-2	1	9	11	14177	detoxification	P00441
+45540	6.9635E-3	3.6016E-2	1	9	11	14177	regulation of cholesterol biosynthetic process	P00441
+99518	6.9635E-3	3.6016E-2	1	9	11	14177	vesicle cytoskeletal trafficking	P42858
+48340	6.9635E-3	3.6016E-2	1	9	11	14177	paraxial mesoderm morphogenesis	P42858
+21756	6.9635E-3	3.6016E-2	1	9	11	14177	striatum development	P42858
+106118	6.9635E-3	3.6016E-2	1	9	11	14177	regulation of sterol biosynthetic process	P00441
+32410	6.9635E-3	3.6016E-2	1	9	11	14177	negative regulation of transporter activity	P37840
+46902	6.9635E-3	3.6016E-2	1	9	11	14177	regulation of mitochondrial membrane permeability	P42858
+1919	6.9635E-3	3.6016E-2	1	9	11	14177	regulation of receptor recycling	P37840
+1963	6.9635E-3	3.6016E-2	1	9	11	14177	synaptic transmission, dopaminergic	P37840
+6457	6.9930E-3	3.6016E-2	2	166	11	14177	protein folding	P11142|P25685
+2694	7.3227E-3	3.7391E-2	2	170	11	14177	regulation of leukocyte activation	P37840|P00441
+51649	7.5893E-3	3.7391E-2	3	550	11	14177	establishment of localization in cell	P42858|P37840|P55072
+50	7.7345E-3	3.7391E-2	1	10	11	14177	urea cycle	P42858
+2269	7.7345E-3	3.7391E-2	1	10	11	14177	leukocyte activation involved in inflammatory response	P37840
+10517	7.7345E-3	3.7391E-2	1	10	11	14177	regulation of phospholipase activity	P37840
+303	7.7345E-3	3.7391E-2	1	10	11	14177	response to superoxide	P00441
+43650	7.7345E-3	3.7391E-2	1	10	11	14177	dicarboxylic acid biosynthetic process	P42858
+45932	7.7345E-3	3.7391E-2	1	10	11	14177	negative regulation of muscle contraction	P00441
+32026	7.7345E-3	3.7391E-2	1	10	11	14177	response to magnesium ion	P37840
+1774	7.7345E-3	3.7391E-2	1	10	11	14177	microglial cell activation	P37840
+50865	8.3537E-3	3.8198E-2	2	182	11	14177	regulation of cell activation	P37840|P00441
+32769	8.5049E-3	3.8198E-2	1	11	11	14177	negative regulation of monooxygenase activity	P37840
+43030	8.5049E-3	3.8198E-2	1	11	11	14177	regulation of macrophage activation	P37840
+305	8.5049E-3	3.8198E-2	1	11	11	14177	response to oxygen radical	P00441
+33081	8.5049E-3	3.8198E-2	1	11	11	14177	regulation of T cell differentiation in thymus	P00441
+72132	8.5049E-3	3.8198E-2	1	11	11	14177	mesenchyme morphogenesis	P42858
+10894	8.5049E-3	3.8198E-2	1	11	11	14177	negative regulation of steroid biosynthetic process	P00441
+21544	8.5049E-3	3.8198E-2	1	11	11	14177	subpallium development	P42858
+19627	8.5049E-3	3.8198E-2	1	11	11	14177	urea metabolic process	P42858
+61077	8.5049E-3	3.8198E-2	1	11	11	14177	chaperone-mediated protein folding	P25685
+14037	8.5049E-3	3.8198E-2	1	11	11	14177	Schwann cell differentiation	P00441
+51085	8.5049E-3	3.8198E-2	1	11	11	14177	chaperone cofactor-dependent protein refolding	P25685
+6979	8.5316E-3	3.8198E-2	2	184	11	14177	response to oxidative stress	P37840|P00441
+65003	8.6226E-3	3.8387E-2	3	576	11	14177	protein-containing complex assembly	Q71DI3|Q16695|P55072
+90181	9.2748E-3	3.9937E-2	1	12	11	14177	regulation of cholesterol metabolic process	P00441
+51281	9.2748E-3	3.9937E-2	1	12	11	14177	positive regulation of release of sequestered calcium ion into cytosol	P37840
+71941	9.2748E-3	3.9937E-2	1	12	11	14177	nitrogen cycle metabolic process	P42858
+7029	9.2748E-3	3.9937E-2	1	12	11	14177	endoplasmic reticulum organization	P42858
+42423	9.2748E-3	3.9937E-2	1	12	11	14177	catecholamine biosynthetic process	P37840
+9713	9.2748E-3	3.9937E-2	1	12	11	14177	catechol-containing compound biosynthetic process	P37840
+51938	1.0044E-2	4.1248E-2	1	13	11	14177	L-glutamate import	P42858
+45939	1.0044E-2	4.1248E-2	1	13	11	14177	negative regulation of steroid metabolic process	P00441
+50732	1.0044E-2	4.1248E-2	1	13	11	14177	negative regulation of peptidyl-tyrosine phosphorylation	P67775
+50812	1.0044E-2	4.1248E-2	1	13	11	14177	regulation of acyl-CoA biosynthetic process	P37840
+46716	1.0044E-2	4.1248E-2	1	13	11	14177	muscle cell cellular homeostasis	P00441
+14059	1.0044E-2	4.1248E-2	1	13	11	14177	regulation of dopamine secretion	P37840
+51084	1.0044E-2	4.1248E-2	1	13	11	14177	'de novo' post-translational protein folding	P25685
+8088	1.0044E-2	4.1248E-2	1	13	11	14177	axo-dendritic transport	P42858
+1901700	1.0050E-2	4.1248E-2	3	609	11	14177	response to oxygen-containing compound	P42858|P37840|P00441
+1901701	1.0700E-2	4.3033E-2	2	207	11	14177	cellular response to oxygen-containing compound	P42858|P00441
+61900	1.0813E-2	4.3033E-2	1	14	11	14177	glial cell activation	P37840
+150076	1.0813E-2	4.3033E-2	1	14	11	14177	neuroinflammatory response	P37840
+48339	1.0813E-2	4.3033E-2	1	14	11	14177	paraxial mesoderm development	P42858
+42554	1.0813E-2	4.3033E-2	1	14	11	14177	superoxide anion generation	P00441
+10039	1.0813E-2	4.3033E-2	1	14	11	14177	response to iron ion	P37840
+50790	1.1464E-2	4.4956E-2	3	639	11	14177	regulation of catalytic activity	P37840|P55072|P00441
+51354	1.1581E-2	4.4956E-2	1	15	11	14177	negative regulation of oxidoreductase activity	P37840
+34248	1.1581E-2	4.4956E-2	1	15	11	14177	regulation of amide metabolic process	P37840
+21988	1.1581E-2	4.4956E-2	1	15	11	14177	olfactory lobe development	P42858
+14048	1.1581E-2	4.4956E-2	1	15	11	14177	regulation of glutamate secretion	P37840
+30808	1.2349E-2	4.6338E-2	1	16	11	14177	regulation of nucleotide biosynthetic process	P37840
+6458	1.2349E-2	4.6338E-2	1	16	11	14177	'de novo' protein folding	P25685
+72384	1.2349E-2	4.6338E-2	1	16	11	14177	organelle transport along microtubule	P42858
+51953	1.2349E-2	4.6338E-2	1	16	11	14177	negative regulation of amine transport	P37840
+42491	1.2349E-2	4.6338E-2	1	16	11	14177	inner ear auditory receptor cell differentiation	P00441
+34341	1.2349E-2	4.6338E-2	1	16	11	14177	response to type II interferon	P37840
+1900371	1.2349E-2	4.6338E-2	1	16	11	14177	regulation of purine nucleotide biosynthetic process	P37840
+44249	1.2618E-2	4.6999E-2	5	2014	11	14177	cellular biosynthetic process	P11142|P67775|P42858|P25685|P00441
+48519	1.2644E-2	4.6999E-2	5	2015	11	14177	negative regulation of biological process	Q99700|P67775|P42858|P37840|P00441
+44238	1.2783E-2	4.7292E-2	8	4996	11	14177	primary metabolic process	Q99700|P11142|P67775|P42858|P37840|P55072|P25685|P00441
+6915	1.2989E-2	4.7629E-2	3	669	11	14177	apoptotic process	P67775|P42858|P00441
+60079	1.3116E-2	4.7629E-2	1	17	11	14177	excitatory postsynaptic potential	P37840
+46688	1.3116E-2	4.7629E-2	1	17	11	14177	response to copper ion	P00441
+42762	1.3116E-2	4.7629E-2	1	17	11	14177	regulation of sulfur metabolic process	P37840
+12501	1.3469E-2	4.8192E-2	3	678	11	14177	programmed cell death	P67775|P42858|P00441
+51248	1.3746E-2	4.8192E-2	2	236	11	14177	negative regulation of protein metabolic process	P67775|P37840
+6309	1.3883E-2	4.8192E-2	1	18	11	14177	apoptotic DNA fragmentation	P00441
+35176	1.3883E-2	4.8192E-2	1	18	11	14177	social behavior	P42858
+51703	1.3883E-2	4.8192E-2	1	18	11	14177	biological process involved in intraspecies interaction between organisms	P42858
+51955	1.3883E-2	4.8192E-2	1	18	11	14177	regulation of amino acid transport	P37840
+31623	1.3883E-2	4.8192E-2	1	18	11	14177	receptor internalization	P37840
+7212	1.3883E-2	4.8192E-2	1	18	11	14177	G protein-coupled dopamine receptor signaling pathway	P42858
+42116	1.3883E-2	4.8192E-2	1	18	11	14177	macrophage activation	P37840
+46928	1.3883E-2	4.8192E-2	1	18	11	14177	regulation of neurotransmitter secretion	P37840
+6886	1.4646E-2	4.9756E-2	2	244	11	14177	intracellular protein transport	P42858|P55072
+45104	1.4649E-2	4.9756E-2	1	19	11	14177	intermediate filament cytoskeleton organization	P00441
+35315	1.4649E-2	4.9756E-2	1	19	11	14177	hair cell differentiation	P00441
+72525	1.4649E-2	4.9756E-2	1	19	11	14177	pyridine-containing compound biosynthetic process	P42858
+15800	1.4649E-2	4.9756E-2	1	19	11	14177	acidic amino acid transport	P42858
+42221	1.4930E-2	4.9986E-2	4	1332	11	14177	response to chemical	P42858|P37840|P55072|P00441
+30968	1.5414E-2	4.9986E-2	1	20	11	14177	endoplasmic reticulum unfolded protein response	P55072
+1903052	1.5414E-2	4.9986E-2	1	20	11	14177	positive regulation of proteolysis involved in protein catabolic process	P55072
+45913	1.5414E-2	4.9986E-2	1	20	11	14177	positive regulation of carbohydrate metabolic process	P37840
+48169	1.5414E-2	4.9986E-2	1	20	11	14177	regulation of long-term neuronal synaptic plasticity	P37840
+2000060	1.5414E-2	4.9986E-2	1	20	11	14177	positive regulation of ubiquitin-dependent protein catabolic process	P55072
+1901800	1.5414E-2	4.9986E-2	1	20	11	14177	positive regulation of proteasomal protein catabolic process	P55072
+42417	1.5414E-2	4.9986E-2	1	20	11	14177	dopamine metabolic process	P37840
+32436	1.5414E-2	4.9986E-2	1	20	11	14177	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	P55072
+34620	1.5414E-2	4.9986E-2	1	20	11	14177	cellular response to unfolded protein	P55072
+1975	1.5414E-2	4.9986E-2	1	20	11	14177	response to amphetamine	P00441

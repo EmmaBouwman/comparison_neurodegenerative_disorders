@@ -1,0 +1,2 @@
+*.cys filter=lfs diff=lfs merge=lfs -text
+*.cyjs filter=lfs diff=lfs merge=lfs -text

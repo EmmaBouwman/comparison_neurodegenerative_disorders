@@ -1,0 +1,55 @@
+File created with BiNGO v3.0.5  (c) on 18 aug. 2024 at 17:43:42
+
+ontology: unknown
+curator:  unknown
+
+Selected ontology file : C:\Users\emmab\Downloads\go-basic.obo
+Selected annotation file : bundle://807aa849-5a07-4917-b8a2-275e7e29f20a_126.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+O15020	P54259	Q9UBB4	P54253	P35610	Q06787	O95155	O95992	Q58EX7	O60469	Q9HAN9	Q9Y6A2	Q93045	P49459	Q9BZQ4	P49810	Q9NQC3	P26378	Q6IQ55	Q9Y5Z0	P51693	P54725	A0A087WY85	Q9Y2D3	Q00005	Q14003	Q13332	
+
+No annotations were retrieved for the following entities:
+Q9UBB4	Q9Y2D3	A0A087WY85	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+8219	2.3256E-7	1.4721E-4	10	780	24	14177	cell death	O15020|P54259|P51693|P54253|Q00005|P49810|Q9NQC3|O95155|Q14003|Q6IQ55
+42984	2.7381E-5	8.6661E-3	2	5	24	14177	regulation of amyloid precursor protein biosynthetic process	P35610|Q9Y5Z0
+9435	7.6430E-5	1.5535E-2	2	8	24	14177	NAD biosynthetic process	Q9HAN9|Q9BZQ4
+19359	9.8165E-5	1.5535E-2	2	9	24	14177	nicotinamide nucleotide biosynthetic process	Q9HAN9|Q9BZQ4
+10559	1.7941E-4	2.2323E-2	2	12	24	14177	regulation of glycoprotein biosynthetic process	P35610|Q9Y5Z0
+1903018	2.1181E-4	2.2323E-2	2	13	24	14177	regulation of glycoprotein metabolic process	P35610|Q9Y5Z0
+6509	2.4686E-4	2.2323E-2	2	14	24	14177	membrane protein ectodomain proteolysis	P49810|Q9Y5Z0
+19363	2.8454E-4	2.2514E-2	2	15	24	14177	pyridine nucleotide biosynthetic process	Q9HAN9|Q9BZQ4
+72525	4.6149E-4	2.7026E-2	2	19	24	14177	pyridine-containing compound biosynthetic process	Q9HAN9|Q9BZQ4
+33619	4.6149E-4	2.7026E-2	2	19	24	14177	membrane protein proteolysis	P49810|Q9Y5Z0
+8203	4.6964E-4	2.7026E-2	3	91	24	14177	cholesterol metabolic process	Q9Y6A2|P35610|O95992
+1902652	5.6620E-4	2.7671E-2	3	97	24	14177	secondary alcohol metabolic process	Q9Y6A2|P35610|O95992
+16125	6.1889E-4	2.7671E-2	3	100	24	14177	sterol metabolic process	Q9Y6A2|P35610|O95992
+19674	6.2148E-4	2.7671E-2	2	22	24	14177	NAD metabolic process	Q9HAN9|Q9BZQ4
+10975	6.5571E-4	2.7671E-2	3	102	24	14177	regulation of neuron projection development	O60469|Q93045|Q9NQC3
+30516	8.7077E-4	3.4450E-2	2	26	24	14177	regulation of axon extension	O60469|Q9NQC3
+61387	1.0107E-3	3.7439E-2	2	28	24	14177	regulation of extent of cell growth	O60469|Q9NQC3
+120035	1.0768E-3	3.7439E-2	3	121	24	14177	regulation of plasma membrane bounded cell projection organization	O60469|Q93045|Q9NQC3
+31344	1.1291E-3	3.7439E-2	3	123	24	14177	regulation of cell projection organization	O60469|Q93045|Q9NQC3
+32535	1.1829E-3	3.7439E-2	3	125	24	14177	regulation of cellular component size	O60469|O15020|Q9NQC3
+51246	1.4387E-3	3.9689E-2	6	768	24	14177	regulation of protein metabolic process	P51693|P35610|P49459|Q06787|P49810|Q9Y5Z0
+32272	1.5794E-3	3.9689E-2	2	35	24	14177	negative regulation of protein polymerization	O15020|Q93045
+7399	1.6478E-3	3.9689E-2	7	1086	24	14177	nervous system development	O60469|P54259|P51693|Q9Y6A2|Q93045|P49810|Q9NQC3
+10977	1.6706E-3	3.9689E-2	2	36	24	14177	negative regulation of neuron projection development	Q93045|Q9NQC3
+10878	1.6929E-3	3.9689E-2	1	1	24	14177	cholesterol storage	P35610
+48842	1.6929E-3	3.9689E-2	1	1	24	14177	positive regulation of axon extension involved in axon guidance	O60469
+70593	1.6929E-3	3.9689E-2	1	1	24	14177	dendrite self-avoidance	O60469
+9416	1.7764E-3	4.0160E-2	3	144	24	14177	response to light stimulus	P54253|P49459|O95155
+1901880	1.8603E-3	4.0607E-2	2	38	24	14177	negative regulation of protein depolymerization	O15020|Q93045
+31345	1.9589E-3	4.0746E-2	2	39	24	14177	negative regulation of cell projection organization	Q93045|Q9NQC3
+43242	2.0599E-3	4.0746E-2	2	40	24	14177	negative regulation of protein-containing complex disassembly	O15020|Q93045
+1901879	2.0599E-3	4.0746E-2	2	40	24	14177	regulation of protein depolymerization	O15020|Q93045
+31333	2.2691E-3	4.3525E-2	2	42	24	14177	negative regulation of protein-containing complex assembly	O15020|Q93045
+48523	2.3392E-3	4.3551E-2	9	1863	24	14177	negative regulation of cellular process	O60469|O15020|P54259|Q93045|P54253|Q06787|P49810|Q9NQC3|Q9Y5Z0
+51129	2.4852E-3	4.4946E-2	3	162	24	14177	negative regulation of cellular component organization	O15020|Q93045|Q9NQC3

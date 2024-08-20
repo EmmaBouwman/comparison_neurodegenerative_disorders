@@ -1,0 +1,166 @@
+File created with BiNGO v3.0.5  (c) on 18 aug. 2024 at 13:07:30
+
+ontology: unknown
+curator:  unknown
+
+Selected ontology file : C:\Users\emmab\Downloads\go-basic.obo
+Selected annotation file : bundle://807aa849-5a07-4917-b8a2-275e7e29f20a_126.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+P31689	Q96AP4	Q96TC4	Q9H3M9	Q9UEP9	P07900	P54253	P54725	Q9UPK7	P11142	P20226	Q8NI43	P42858	P63165	Q16763	P55072	P25685	Q16186	
+
+No annotations were retrieved for the following entities:
+Q96AP4	Q96TC4	Q9UEP9	P20226	Q8NI43	Q9UPK7	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+6986	1.4473E-9	4.6767E-7	5	66	12	14177	response to unfolded protein	P31689|P11142|P07900|P55072|P25685
+35966	1.9568E-9	4.6767E-7	5	70	12	14177	response to topologically incorrect protein	P31689|P11142|P07900|P55072|P25685
+6457	8.3406E-6	1.3289E-3	4	166	12	14177	protein folding	P31689|P11142|P07900|P25685
+51604	4.8003E-5	4.8042E-3	4	259	12	14177	protein maturation	P31689|P11142|P07900|P25685
+43170	7.0391E-5	4.8042E-3	10	3792	12	14177	macromolecule metabolic process	P31689|P11142|P07900|P54253|P63165|Q16763|P54725|P55072|P25685|Q16186
+44238	8.4016E-5	4.8042E-3	11	4996	12	14177	primary metabolic process	P31689|P11142|P07900|P42858|P54253|P63165|Q16763|P54725|P55072|P25685|Q16186
+43161	1.0845E-4	4.8042E-3	3	115	12	14177	proteasome-mediated ubiquitin-dependent protein catabolic process	Q16763|P54725|P55072
+10498	1.2005E-4	4.8042E-3	3	119	12	14177	proteasomal protein catabolic process	Q16763|P54725|P55072
+2000060	1.2374E-4	4.8042E-3	2	20	12	14177	positive regulation of ubiquitin-dependent protein catabolic process	P63165|P55072
+1901800	1.2374E-4	4.8042E-3	2	20	12	14177	positive regulation of proteasomal protein catabolic process	P63165|P55072
+1903052	1.2374E-4	4.8042E-3	2	20	12	14177	positive regulation of proteolysis involved in protein catabolic process	P63165|P55072
+32436	1.2374E-4	4.8042E-3	2	20	12	14177	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	P63165|P55072
+1901564	1.3555E-4	4.8042E-3	9	3117	12	14177	organonitrogen compound metabolic process	P31689|P11142|P07900|P42858|P63165|Q16763|P54725|P55072|P25685
+6950	1.5514E-4	4.8042E-3	7	1690	12	14177	response to stress	P31689|P11142|P07900|P63165|P54725|P55072|P25685
+48193	1.5602E-4	4.8042E-3	3	130	12	14177	Golgi vesicle transport	P11142|P42858|P55072
+8542	1.7941E-4	4.8042E-3	2	24	12	14177	visual learning	P42858|P54253
+19538	1.8489E-4	4.8042E-3	8	2422	12	14177	protein metabolic process	P31689|P11142|P07900|P63165|Q16763|P54725|P55072|P25685
+2000058	2.1107E-4	4.8042E-3	2	26	12	14177	regulation of ubiquitin-dependent protein catabolic process	P63165|P55072
+1903050	2.1107E-4	4.8042E-3	2	26	12	14177	regulation of proteolysis involved in protein catabolic process	P63165|P55072
+32434	2.1107E-4	4.8042E-3	2	26	12	14177	regulation of proteasomal ubiquitin-dependent protein catabolic process	P63165|P55072
+61136	2.1107E-4	4.8042E-3	2	26	12	14177	regulation of proteasomal protein catabolic process	P63165|P55072
+7632	2.2784E-4	4.9504E-3	2	27	12	14177	visual behavior	P42858|P54253
+7006	2.6330E-4	5.2673E-3	2	29	12	14177	mitochondrial membrane organization	P07900|P42858
+8152	2.6447E-4	5.2673E-3	11	5573	12	14177	metabolic process	P31689|P11142|P07900|P42858|P54253|P63165|Q16763|P54725|P55072|P25685|Q16186
+8306	3.4177E-4	6.5347E-3	2	33	12	14177	associative learning	P42858|P54253
+61024	4.2721E-4	7.8542E-3	3	183	12	14177	membrane organization	P11142|P07900|P42858
+32446	4.4805E-4	7.8836E-3	3	186	12	14177	protein modification by small protein conjugation	P63165|Q16763|P55072
+44249	4.7449E-4	7.8836E-3	7	2014	12	14177	cellular biosynthetic process	P31689|P11142|P07900|P42858|P54253|P25685|Q16186
+6888	4.7829E-4	7.8836E-3	2	39	12	14177	endoplasmic reticulum to Golgi vesicle-mediated transport	P42858|P55072
+6839	5.0323E-4	8.0182E-3	2	40	12	14177	mitochondrial transport	P07900|P42858
+45732	6.0918E-4	9.3932E-3	2	44	12	14177	positive regulation of protein catabolic process	P63165|P55072
+10467	6.7881E-4	1.0140E-2	6	1480	12	14177	gene expression	P31689|P11142|P07900|P54253|P25685|Q16186
+70647	7.7060E-4	1.1162E-2	3	224	12	14177	protein modification by small protein conjugation or removal	P63165|Q16763|P55072
+21990	8.4644E-4	1.1239E-2	1	1	12	14177	neural plate formation	P42858
+19244	8.4644E-4	1.1239E-2	1	1	12	14177	lactate biosynthetic process from pyruvate	P42858
+19249	8.4644E-4	1.1239E-2	1	1	12	14177	lactate biosynthetic process	P42858
+7612	9.5134E-4	1.2130E-2	2	55	12	14177	learning	P42858|P54253
+43687	9.6432E-4	1.2130E-2	3	242	12	14177	post-translational protein modification	P63165|Q16763|P55072
+65003	1.0283E-3	1.2604E-2	4	576	12	14177	protein-containing complex assembly	P07900|Q16763|P55072|Q16186
+6511	1.1219E-3	1.3407E-2	3	255	12	14177	ubiquitin-dependent protein catabolic process	Q16763|P54725|P55072
+19941	1.1867E-3	1.3505E-2	3	260	12	14177	modification-dependent protein catabolic process	Q16763|P54725|P55072
+43632	1.1867E-3	1.3505E-2	3	260	12	14177	modification-dependent macromolecule catabolic process	Q16763|P54725|P55072
+51603	1.3373E-3	1.4866E-2	3	271	12	14177	proteolysis involved in protein catabolic process	Q16763|P54725|P55072
+9893	1.4600E-3	1.5861E-2	5	1112	12	14177	positive regulation of metabolic process	P07900|P54253|P63165|Q16763|P55072
+9059	1.5227E-3	1.6115E-2	6	1720	12	14177	macromolecule biosynthetic process	P31689|P11142|P07900|P54253|P25685|Q16186
+9058	1.5508E-3	1.6115E-2	7	2436	12	14177	biosynthetic process	P31689|P11142|P07900|P42858|P54253|P25685|Q16186
+52	1.6922E-3	1.6395E-2	1	2	12	14177	citrulline metabolic process	P42858
+10992	1.6922E-3	1.6395E-2	1	2	12	14177	ubiquitin recycling	Q16763
+10994	1.6922E-3	1.6395E-2	1	2	12	14177	free ubiquitin chain polymerization	Q16763
+42176	1.7150E-3	1.6395E-2	2	74	12	14177	regulation of protein catabolic process	P63165|P55072
+6281	1.7911E-3	1.6787E-2	3	300	12	14177	DNA repair	P63165|P54725|P55072
+9896	1.9031E-3	1.7418E-2	2	78	12	14177	positive regulation of catabolic process	P63165|P55072
+30163	1.9313E-3	1.7418E-2	3	308	12	14177	protein catabolic process	Q16763|P54725|P55072
+1904668	2.5374E-3	2.1278E-2	1	3	12	14177	positive regulation of ubiquitin protein ligase activity	Q16763
+19805	2.5374E-3	2.1278E-2	1	3	12	14177	quinolinate biosynthetic process	P42858
+1839	2.5374E-3	2.1278E-2	1	3	12	14177	neural plate morphogenesis	P42858
+6089	2.5374E-3	2.1278E-2	1	3	12	14177	lactate metabolic process	P42858
+7005	2.9840E-3	2.3002E-2	2	98	12	14177	mitochondrion organization	P07900|P42858
+42391	3.1047E-3	2.3002E-2	2	100	12	14177	regulation of membrane potential	P42858|P54253
+7626	3.3531E-3	2.3002E-2	2	104	12	14177	locomotory behavior	P42858|P54253
+1904666	3.3818E-3	2.3002E-2	1	4	12	14177	regulation of ubiquitin protein ligase activity	Q16763
+70841	3.3818E-3	2.3002E-2	1	4	12	14177	inclusion body assembly	P55072
+70842	3.3818E-3	2.3002E-2	1	4	12	14177	aggresome assembly	P55072
+10458	3.3818E-3	2.3002E-2	1	4	12	14177	exit from mitosis	Q16763
+44314	3.3818E-3	2.3002E-2	1	4	12	14177	protein K27-linked ubiquitination	Q16763
+70096	3.3818E-3	2.3002E-2	1	4	12	14177	mitochondrial outer membrane translocase complex assembly	P07900
+35519	3.3818E-3	2.3002E-2	1	4	12	14177	protein K29-linked ubiquitination	Q16763
+1840	3.3818E-3	2.3002E-2	1	4	12	14177	neural plate development	P42858
+7008	3.3818E-3	2.3002E-2	1	4	12	14177	outer mitochondrial membrane organization	P07900
+51247	3.4068E-3	2.3002E-2	3	376	12	14177	positive regulation of protein metabolic process	P63165|Q16763|P55072
+45862	3.4166E-3	2.3002E-2	2	105	12	14177	positive regulation of proteolysis	P63165|P55072
+71407	3.5453E-3	2.3537E-2	2	107	12	14177	cellular response to organic cyclic compound	P31689|P42858
+6974	3.8047E-3	2.4046E-2	3	391	12	14177	DNA damage response	P63165|P54725|P55072
+6913	3.8769E-3	2.4046E-2	2	112	12	14177	nucleocytoplasmic transport	P42858|P54253
+51169	3.8769E-3	2.4046E-2	2	112	12	14177	nuclear transport	P42858|P54253
+7611	3.9449E-3	2.4046E-2	2	113	12	14177	learning or memory	P42858|P54253
+22607	4.1638E-3	2.4046E-2	4	842	12	14177	cellular component assembly	P07900|Q16763|P55072|Q16186
+42026	4.2256E-3	2.4046E-2	1	5	12	14177	protein refolding	P07900
+30970	4.2256E-3	2.4046E-2	1	5	12	14177	retrograde protein transport, ER to cytosol	P55072
+43569	4.2256E-3	2.4046E-2	1	5	12	14177	negative regulation of insulin-like growth factor receptor signaling pathway	P54253
+36503	4.2256E-3	2.4046E-2	1	5	12	14177	ERAD pathway	P55072
+32527	4.2256E-3	2.4046E-2	1	5	12	14177	protein exit from endoplasmic reticulum	P55072
+46874	4.2256E-3	2.4046E-2	1	5	12	14177	quinolinate metabolic process	P42858
+1903513	4.2256E-3	2.4046E-2	1	5	12	14177	endoplasmic reticulum to cytosol transport	P55072
+90304	4.3945E-3	2.4658E-2	5	1424	12	14177	nucleic acid metabolic process	P54253|P63165|P54725|P55072|Q16186
+50890	4.4365E-3	2.4658E-2	2	120	12	14177	cognition	P42858|P54253
+48341	5.0688E-3	2.7417E-2	1	6	12	14177	paraxial mesoderm formation	P42858
+43248	5.0688E-3	2.7417E-2	1	6	12	14177	proteasome assembly	Q16186
+43933	5.1048E-3	2.7417E-2	4	891	12	14177	protein-containing complex organization	P07900|Q16763|P55072|Q16186
+16043	5.1645E-3	2.7429E-2	6	2173	12	14177	cellular component organization	P11142|P07900|P42858|Q16763|P55072|Q16186
+9057	5.3338E-3	2.8017E-2	3	441	12	14177	macromolecule catabolic process	Q16763|P54725|P55072
+46907	5.5390E-3	2.8683E-2	3	447	12	14177	intracellular transport	P42858|P54253|P55072
+7018	5.5806E-3	2.8683E-2	2	135	12	14177	microtubule-based movement	P31689|P42858
+85020	5.9113E-3	2.9433E-2	1	7	12	14177	protein K6-linked ubiquitination	Q16763
+16925	5.9113E-3	2.9433E-2	1	7	12	14177	protein sumoylation	P63165
+51131	5.9113E-3	2.9433E-2	1	7	12	14177	chaperone-mediated protein complex assembly	P07900
+9416	6.3257E-3	3.1172E-2	2	144	12	14177	response to light stimulus	P42858|P54253
+71840	6.6406E-3	3.2328E-2	6	2283	12	14177	cellular component organization or biogenesis	P11142|P07900|P42858|Q16763|P55072|Q16186
+51443	6.7532E-3	3.2328E-2	1	8	12	14177	positive regulation of ubiquitin-protein transferase activity	Q16763
+44085	6.7633E-3	3.2328E-2	4	964	12	14177	cellular component biogenesis	P07900|Q16763|P55072|Q16186
+6259	6.9108E-3	3.2707E-2	3	484	12	14177	DNA metabolic process	P63165|P54725|P55072
+50896	7.0371E-3	3.2978E-2	9	5114	12	14177	response to stimulus	P31689|P11142|P07900|P42858|P54253|P63165|P54725|P55072|P25685
+9894	7.4779E-3	3.3001E-2	2	157	12	14177	regulation of catabolic process	P63165|P55072
+8340	7.5944E-3	3.3001E-2	1	9	12	14177	determination of adult lifespan	P42858
+99518	7.5944E-3	3.3001E-2	1	9	12	14177	vesicle cytoskeletal trafficking	P42858
+48340	7.5944E-3	3.3001E-2	1	9	12	14177	paraxial mesoderm morphogenesis	P42858
+21756	7.5944E-3	3.3001E-2	1	9	12	14177	striatum development	P42858
+47496	7.5944E-3	3.3001E-2	1	9	12	14177	vesicle transport along microtubule	P42858
+90559	7.5944E-3	3.3001E-2	1	9	12	14177	regulation of membrane permeability	P42858
+46902	7.5944E-3	3.3001E-2	1	9	12	14177	regulation of mitochondrial membrane permeability	P42858
+1901565	8.1177E-3	3.4957E-2	3	513	12	14177	organonitrogen compound catabolic process	Q16763|P54725|P55072
+30162	8.2310E-3	3.5060E-2	2	165	12	14177	regulation of proteolysis	P63165|P55072
+16567	8.4244E-3	3.5060E-2	2	167	12	14177	protein ubiquitination	Q16763|P55072
+50	8.4349E-3	3.5060E-2	1	10	12	14177	urea cycle	P42858
+43650	8.4349E-3	3.5060E-2	1	10	12	14177	dicarboxylic acid biosynthetic process	P42858
+9628	8.6064E-3	3.5464E-2	3	524	12	14177	response to abiotic stimulus	P31689|P42858|P54253
+33554	8.6972E-3	3.5532E-2	3	526	12	14177	cellular response to stress	P63165|P54725|P55072
+51716	9.1545E-3	3.5753E-2	7	3281	12	14177	cellular response to stimulus	P31689|P07900|P42858|P54253|P63165|P54725|P55072
+21544	9.2748E-3	3.5753E-2	1	11	12	14177	subpallium development	P42858
+19627	9.2748E-3	3.5753E-2	1	11	12	14177	urea metabolic process	P42858
+43392	9.2748E-3	3.5753E-2	1	11	12	14177	negative regulation of DNA binding	P63165
+72132	9.2748E-3	3.5753E-2	1	11	12	14177	mesenchyme morphogenesis	P42858
+61077	9.2748E-3	3.5753E-2	1	11	12	14177	chaperone-mediated protein folding	P25685
+51085	9.2748E-3	3.5753E-2	1	11	12	14177	chaperone cofactor-dependent protein refolding	P25685
+10604	9.5824E-3	3.6643E-2	4	1064	12	14177	positive regulation of macromolecule metabolic process	P54253|P63165|Q16763|P55072
+51649	9.8308E-3	3.7295E-2	3	550	12	14177	establishment of localization in cell	P42858|P54253|P55072
+71941	1.0114E-2	3.7770E-2	1	12	12	14177	nitrogen cycle metabolic process	P42858
+7029	1.0114E-2	3.7770E-2	1	12	12	14177	endoplasmic reticulum organization	P42858
+16192	1.0633E-2	3.9401E-2	3	566	12	14177	vesicle-mediated transport	P11142|P42858|P55072
+51938	1.0953E-2	3.9662E-2	1	13	12	14177	L-glutamate import	P42858
+51084	1.0953E-2	3.9662E-2	1	13	12	14177	'de novo' post-translational protein folding	P25685
+8088	1.0953E-2	3.9662E-2	1	13	12	14177	axo-dendritic transport	P42858
+48339	1.1791E-2	4.2059E-2	1	14	12	14177	paraxial mesoderm development	P42858
+43567	1.1791E-2	4.2059E-2	1	14	12	14177	regulation of insulin-like growth factor receptor signaling pathway	P54253
+6139	1.2154E-2	4.3034E-2	5	1805	12	14177	nucleobase-containing compound metabolic process	P54253|P63165|P54725|P55072|Q16186
+21988	1.2628E-2	4.4383E-2	1	15	12	14177	olfactory lobe development	P42858
+51438	1.3465E-2	4.5972E-2	1	16	12	14177	regulation of ubiquitin-protein transferase activity	Q16763
+6458	1.3465E-2	4.5972E-2	1	16	12	14177	'de novo' protein folding	P25685
+72384	1.3465E-2	4.5972E-2	1	16	12	14177	organelle transport along microtubule	P42858
+70534	1.3465E-2	4.5972E-2	1	16	12	14177	protein K63-linked ubiquitination	Q16763
+9314	1.3791E-2	4.6754E-2	2	216	12	14177	response to radiation	P42858|P54253
+60079	1.4300E-2	4.8138E-2	1	17	12	14177	excitatory postsynaptic potential	P54253
+7212	1.5136E-2	4.9554E-2	1	18	12	14177	G protein-coupled dopamine receptor signaling pathway	P42858
+35176	1.5136E-2	4.9554E-2	1	18	12	14177	social behavior	P42858
+51703	1.5136E-2	4.9554E-2	1	18	12	14177	biological process involved in intraspecies interaction between organisms	P42858
+51881	1.5136E-2	4.9554E-2	1	18	12	14177	regulation of mitochondrial membrane potential	P42858
