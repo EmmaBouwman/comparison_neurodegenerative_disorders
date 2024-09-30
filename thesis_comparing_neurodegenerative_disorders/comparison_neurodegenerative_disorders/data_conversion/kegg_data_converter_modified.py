@@ -8,12 +8,8 @@ import requests
 
 class KeggDataConverter:
     """
-    Class for converting a kegg file so that it can immediately be merged in Cytoscape with 
-    STRING networks with Uniprot IDs. The KGML file contains protein complexes which will be 
-    split into single protein units and their Uniprot identifiers are retrieved while also 
-    retaining the original network structure. 
-
-    NOTE: the conversion of Uniprot IDs causes a relatively longer runtime.
+    NOTE: Originally this code is created by Aster de Boer: https://theses.liacs.nl/pdf/2022-2023-BoerAMde.pdf.
+    NOTE: The function 'fetch_kegg_data' was added by E.B. to make the retrieval of the kegg data easier, by allowing direct use of KEGG pathway IDs for retrieving KGML data.
     """
 
     def __init__(self, kegg_pathway_id: str) -> None:
@@ -32,13 +28,14 @@ class KeggDataConverter:
         self.kegg_graph = nx.Graph(name="kegg_graph")
 
     def fetch_kegg_data(self) -> str:
+        #function that was added to
         base_url = "https://rest.kegg.jp/get/"
         url = f"{base_url}{self.kegg_pathway_id}/kgml"
         response = requests.get(url)
         if response.status_code == 200:
             return response.text
         else:
-            raise ValueError(f"Failed to fetch KEGG data: {response.status_code}")
+            raise ValueError(f"not able to fetch KEGG data: {response.status_code}")
 
     def convert_kgml_to_graph(self) -> None:
         """
