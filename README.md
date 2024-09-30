@@ -18,7 +18,7 @@ protein interaction networks (PPINs). PPINs for AD, HD, and SCA were constructed
 This repository contains all the code, external scripts, cytoscape files, results and images for this bachelors thesis. 
 
  ## External Automated Workflow
- For this thesis an automated workflow was used to create the different C-PPIN. This automated workflow was originally created by Aster de Boer (A.d.B). For this thesis the automated workflow is modified for each individual C-PPIN. The Jupyter notebook files with the name '[disease]_ppin_automated_workflow.ipynb' are tailord to with the specific data that was needed for each disease. 
+ For this thesis an automated workflow was used to create the different C-PPIN. This automated workflow was originally created by Aster de Boer (A.d.B). For this thesis the automated workflow is modified for each individual C-PPIN. The Jupyter notebook files with the name '[disease]_ppin_automated_workflow.ipynb' were tailord with the specific data that was needed to create a C-PPIN for each disease individually. 
  
  ## External Python Scripts
  This repository also contains scripts developed by other authors. These scripts can be found in the 'external_scripts' folder.
